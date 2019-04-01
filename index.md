@@ -29,10 +29,11 @@ Create an end to end processing pipeline and platform for 3D measurement experim
 - Reduced processing time, data capture size by 5x
 - Prepared Demonstration
 
-Example
+- [Github](https://github.com/vnmr/pmd)
+- [Demo](https://github.com/vnmr/pmd/blob/master/lab_demo.mov)
 
 Conclusion
 - Northwestern Patent Filed
 - [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
-- <a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/>https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/</a> <a href=http://science.sciencemag.org/content/sci/363/6429/796.full.pdf>(Page)</a>
-- <a href=https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/> NPR Science Friday</a>
+- [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)
+- [NPR Science Friday](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/)
