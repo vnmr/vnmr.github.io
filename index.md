@@ -1,8 +1,8 @@
-Winter 2019 Project - Computational Photography Lab Northwestern University
+#Winter 2019 Project - Computational Photography Lab Northwestern University
 
 Problem
 
-Create an end to end processing pipeline and platform for 3D measurement experimentation. The first approach is to enable Phase Measuring Deflectometry experiments.
+Create an end to end processing pipeline and platform for 3D measurement experimentation. The first application is for Phase Measuring Deflectometry experiments.
 
 ![PMD](](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018)
 
