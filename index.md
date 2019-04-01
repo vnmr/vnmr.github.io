@@ -4,7 +4,7 @@ Problem
 
 Create an end to end processing pipeline and platform for 3D measurement experimentation. The first approach is to enable Phase Measuring Deflectometry experiments.
 
-https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018
+![PMD](](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018)
 
 Requirements
 - Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
@@ -13,7 +13,6 @@ Requirements
 - Must run on consumer mobile devices
 - Must be robust to network conditions
 - Improve processing performance
-
 
 Tools
 - Python
@@ -37,12 +36,12 @@ Conclusion
 - [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
 - [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)
 - [NPR Science Friday](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/)
-
--[Northewestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
+-[Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
 
 Acknowledgements
 Leads: Vikas Gupta
        Kai Yeh
+
 Advisors: Dr.Florian Willomitzer
           Dr.Oliver Cossairt
           Dr. Marc Sebastian Walton
