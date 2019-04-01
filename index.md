@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vnmr/vnmr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+##Problem
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vnmr/vnmr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Create an end to end processing pipeline and platform for 3D measurement experimentation. The first approach is to enable Phase Measuring Deflectometry experiments.
 
-### Support or Contact
+<img src=https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png> Spies, 2018
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Requirements
+- Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
+- Software Client for live preview and image capture
+- Software Client to view and manipulate reconstruction 3D scenes
+- Must run on consumer mobile devices
+- Must be robust to network conditions
+- Improve processing performance
+
+
+Tools
+- Python
+- Qt
+- Objective-C
+- Consumer mobile devices - iPhone, iPad
+
+Work
+- Collaborated with CPL team
+- Re-architected and Re-designed 3D reconstruction experiment platform from scratch.
+- Ensure Stable, performant ad-hoc peer to peer pipeline and platform for image acquisition, processing, viewing.
+- Integrated and debugged CPL code
+- Reduced processing time, data capture size by 5x
+- Prepared Demonstration
+
+Work
+- Collaborated with CPL team
+- Re-architected and Re-designed 3D reconstruction experiment platform from scratch.
+- Ensure Stable, performant ad-hoc peer to peer pipeline and platform for image acquisition, processing, viewing.
+- Integrated and debugged CPL code
+- Reduced processing time, data capture size by 5x
+- Prepared Demonstration
+
+Example
+
+Conclusion
+- Northwestern Patent Filed
+- <a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/>2019 AAAS Conference</a>
+- <a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/>https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/</a> <a href=http://science.sciencemag.org/content/sci/363/6429/796.full.pdf>(Page)</a>
+- <a href=https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/> NPR Science Friday</a>
