@@ -31,8 +31,8 @@ Create an end to end processing pipeline and platform for 3D measurement experim
 
 Example
 
-#Conclusion
+Conclusion
 - Northwestern Patent Filed
-- <a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/>2019 AAAS Conference</a>
+- [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
 - <a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/>https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/</a> <a href=http://science.sciencemag.org/content/sci/363/6429/796.full.pdf>(Page)</a>
 - <a href=https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/> NPR Science Friday</a>
