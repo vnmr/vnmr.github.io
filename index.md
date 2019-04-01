@@ -37,3 +37,14 @@ Conclusion
 - [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
 - [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)
 - [NPR Science Friday](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/)
+
+-[Northewestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
+
+Acknowledgements
+Leads: Vikas Gupta
+       Kai Yeh
+Advisors: Dr.Florian Willomitzer
+          Dr.Oliver Cossairt
+          Dr. Marc Sebastian Walton
+
+Computational Photography Lab, Northwestern University
