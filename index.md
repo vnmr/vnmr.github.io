@@ -4,9 +4,9 @@ Problem
 
 Create an end to end processing pipeline and platform for 3D measurement experimentation. The first approach is to enable Phase Measuring Deflectometry experiments.
 
-<img src=https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png> Spies, 2018
+https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018
 
-#Requirements
+Requirements
 - Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 - Software Client for live preview and image capture
 - Software Client to view and manipulate reconstruction 3D scenes
@@ -15,13 +15,13 @@ Create an end to end processing pipeline and platform for 3D measurement experim
 - Improve processing performance
 
 
-#Tools
+Tools
 - Python
 - Qt
 - Objective-C
 - Consumer mobile devices - iPhone, iPad
 
-#Work
+Work
 - Collaborated with CPL team
 - Re-architected and Re-designed 3D reconstruction experiment platform from scratch.
 - Ensure Stable, performant ad-hoc peer to peer pipeline and platform for image acquisition, processing, viewing.
