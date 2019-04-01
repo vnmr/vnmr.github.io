@@ -1,10 +1,3 @@
-```markdown
-Syntax highlighted code block
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ##Problem
 
 Create an end to end processing pipeline and platform for 3D measurement experimentation. The first approach is to enable Phase Measuring Deflectometry experiments.
