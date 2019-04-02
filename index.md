@@ -2,7 +2,7 @@
 
 ### Problem
 
-Create an end to end processing pipeline and platform for 3D measurement experimentation. The first application is for Phase Measuring Deflectometry experiments.
+#### Create an end to end processing pipeline and platform for 3D measurement experimentation. The first application is for Phase Measuring Deflectometry experiments.
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
@@ -32,7 +32,7 @@ Format: ![Alt Text](url)
 * [Github](https://github.com/vnmr/pmd)
 * [Demo](https://github.com/vnmr/pmd/blob/master/lab_demo.mov)
 
-### Conclusion
+### Outcome 
 * Northwestern Patent Filed
 * [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
 * [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)
