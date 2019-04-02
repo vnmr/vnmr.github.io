@@ -1,4 +1,4 @@
-#Winter 2019 Project - Computational Photography Lab Northwestern University
+# Winter 2019 Project - Computational Photography Lab Northwestern University
 
 Problem
 
