@@ -11,18 +11,14 @@
 ![Painting](https://github.com/vnmr/pmd/blob/master/w19.jpg)
 
 ### Requirements
-
-####
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 * Software Client for live preview and image capture
 * Software Client to view and manipulate reconstruction 3D scenes
 * Must run on consumer mobile devices
 * Must be robust to network conditions
-* Improve processing performance
 
 ### Tools
 
-####
 * Python
 * Qt
 * Objective-C
@@ -30,7 +26,6 @@
 
 ### Work
 
-####
 * Collaborated with CPL team
 * Re-architected and Re-designed 3D reconstruction experiment platform from scratch.
 * Ensure Stable, performant ad-hoc peer to peer pipeline and platform for image acquisition, processing, viewing.
@@ -52,12 +47,8 @@
 
 ### Acknowledgements
 
-####
-Leads: Vikas Gupta
-       Kai Yeh
-
-Advisors: Dr.Florian Willomitzer
-          Dr.Oliver Cossairt
-          Dr. Marc Sebastian Walton
+* **Leads** Vikas Gupta, Kai Yeh
+ 
+* **Advisors** Dr.Florian Willomitzer, Dr.Oliver Cossairt, Dr. Marc Sebastian Walton
 
 Computational Photography Lab, Northwestern University
