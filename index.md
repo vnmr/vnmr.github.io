@@ -11,7 +11,7 @@
 ![Painting](https://github.com/vnmr/pmd/blob/master/w19.jpg)
 
 ### Requirements
-* Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
+####* Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 * Software Client for live preview and image capture
 * Software Client to view and manipulate reconstruction 3D scenes
 * Must run on consumer mobile devices
@@ -37,8 +37,6 @@
 * [Demo](https://github.com/vnmr/pmd/blob/master/lab_demo.mov)
 
 ### Outcome 
-
-####
 * Northwestern Patent Filed
 * [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
 * [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)
