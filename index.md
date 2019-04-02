@@ -10,8 +10,6 @@
 
 
 ### Requirements
-
-####
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 * Software Client for live preview and image capture
 * Software Client to view and manipulate reconstruction 3D scenes
@@ -20,8 +18,6 @@
 * Improve processing performance
 
 ### Tools
-
-####
 * Python
 * Qt
 * Objective-C
@@ -48,11 +44,8 @@
 * [Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
 
 ### Acknowledgements
-Leads: Vikas Gupta
-       Kai Yeh
+* **Leads** Vikas Gupta, Kai Yeh
 
-Advisors: Dr.Florian Willomitzer
-          Dr.Oliver Cossairt
-          Dr. Marc Sebastian Walton
+* **Advisors** Dr.Florian Willomitzer, Dr.Oliver Cossairt, Dr. Marc Sebastian Walton
 
 Computational Photography Lab, Northwestern University
