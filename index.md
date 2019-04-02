@@ -36,10 +36,10 @@ Create an end to end processing pipeline and platform for 3D measurement experim
 
 ### Outcome 
 * Northwestern Patent Filed
+* [Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0) 02/16/2019
 * [2019 AAAS Conference](https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/) 02/16/2019
 * [Science Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429) - [News](http://science.sciencemag.org/content/363/6429/796.full.pdf) 02/22/2019
 * [NPR Science Friday](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/) 02/22/2019
-* [Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0) 02/16/2019
 
 ### Acknowledgements
 * **Leads** Vikas Gupta, Kai Yeh
