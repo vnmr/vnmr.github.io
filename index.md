@@ -1,6 +1,7 @@
 # Vikas Gupta - Portfolio
 
 ## Winter 2019 Project - Computational Photography Lab Northwestern University
+![Painting](w19.jpg)
 
 ### Problem
 
@@ -8,7 +9,6 @@
 
 ![PMD](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png)
 
-![Painting](w19.jpg)
 
 ### Requirements
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
