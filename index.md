@@ -1,4 +1,4 @@
-[Winter 2019 Project](w19.md)
+# Vikas Gupta +1 415 812 3326 vikasgupta2019@u.northwestern.edu
 
 ## Winter 2019 Project - Computational Photography Lab Northwestern University
 
