@@ -1,4 +1,4 @@
-## Winter 2019 Project - Computational Photography Lab, Northwestern University
+# Winter 2019 Project - Computational Photography Lab, Northwestern University
 
 ![Painting](w19.jpg)
 
@@ -37,7 +37,7 @@ Create an end to end processing pipeline and platform for 3D measurement experim
 ### Outcome 
 * Northwestern Patent Filed
 * [2019 AAAS Conference 02/16/2019](https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
-* [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429)- [News](http://science.sciencemag.org/content/363/6429/796.full.pdf)
+* [Science 22 February 2019 Vol 363, Issue 6429](http://science.sciencemag.org/content/363/6429) - [News](http://science.sciencemag.org/content/363/6429/796.full.pdf)
 * [NPR Science Friday 02/22/2019](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/)
 * [Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
 
