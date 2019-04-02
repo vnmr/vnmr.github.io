@@ -1,12 +1,12 @@
 ## Winter 2019 Project - Computational Photography Lab Northwestern University
 
-## Problem
+### Problem
 
 Create an end to end processing pipeline and platform for 3D measurement experimentation. The first application is for Phase Measuring Deflectometry experiments.
 
 ![PMD](](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018)
 
-## Requirements
+### Requirements
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 * Software Client for live preview and image capture
 * Software Client to view and manipulate reconstruction 3D scenes
