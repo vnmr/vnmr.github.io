@@ -4,7 +4,7 @@
 
 Create an end to end processing pipeline and platform for 3D measurement experimentation. The first application is for Phase Measuring Deflectometry experiments.
 
-![PMD](](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018)
+![PMD](https://spieswl.github.io/assets/images/projects/webrtc-perception/pmd_slide_1.png Spies, 2018)
 
 ### Requirements
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
