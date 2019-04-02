@@ -9,6 +9,7 @@
 ![Painting](https://github.com/vnmr/pmd/blob/master/w19.jpg)
 
 ### Requirements
+
 ####
 * Software Server for image processing, integrate Computational Photography Labs PMD algorithms into pipeline
 * Software Client for live preview and image capture
@@ -18,6 +19,7 @@
 * Improve processing performance
 
 ### Tools
+
 ####
 * Python
 * Qt
@@ -25,6 +27,7 @@
 * Consumer mobile devices - iPhone, iPad
 
 ### Work
+
 ####
 * Collaborated with CPL team
 * Re-architected and Re-designed 3D reconstruction experiment platform from scratch.
@@ -37,6 +40,7 @@
 * [Demo](https://github.com/vnmr/pmd/blob/master/lab_demo.mov)
 
 ### Outcome 
+
 ####
 * Northwestern Patent Filed
 * [2019 AAAS Conference](a href=https://news.northwestern.edu/for-journalists/press-kits/2019-aaas-conference/)
@@ -45,6 +49,7 @@
 * [Northwestern Video](https://www.youtube.com/watch?time_continue=2&v=z7BLeWgk-a0)
 
 ### Acknowledgements
+
 ####
 Leads: Vikas Gupta
        Kai Yeh
