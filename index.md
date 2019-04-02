@@ -1,4 +1,5 @@
-# Winter 2019 Project - Computational Photography Lab, Northwestern University
+# Vikas Gupta - Portfolio
+Winter 2019 Project - Computational Photography Lab, Northwestern University
 
 ![Painting](w19.jpg)
 
