@@ -32,6 +32,7 @@ measurement procedure capable of taking 3D surface measurements in the wild
 and accessible to users with little to no technical imaging experience. 
 We developed a ‘surface measurement app’ that received an overwhelming amount of
 media coverage.
+
 Contribution: Hand Held instant 3D surface reconstruction
 Co-Author, Optics Express 2019 submission
 
@@ -72,7 +73,7 @@ and computational limits of single-shot 3D sensing
 
 Contribution: In Progress - Real time 3D Reconstruction, Algorithms
 
-Video: https://www.youtube.com/watch?v=V6bOc3aBaHA
+[Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
 ## Swarm Robotics
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
@@ -109,6 +110,4 @@ Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
-[Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw)
-
-[Github](https://github.com/mschlafly/baxterplaysyahtzee)
+[Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
