@@ -3,7 +3,7 @@ pardon the dust 🐺
 
 # Publications
 
-## 3D Human Pose Detection
+### 3D Human Pose Detection
 We propose a new deep learning architecture that introduces a deep channel filter 
 and skeleton joint related constraints as losses to a previous 2-stage temporal 
 deep CNN network to reduce joint position and motion errors for 3D 
@@ -39,7 +39,7 @@ Co-Author, Optics Express 2019 submission
 
 
 # Research
-## HCI
+### HCI
 A novel camera system that employs a natural Human Computer Interface.
 An operator controls a wrist mounted camera with finger gestures. 
 The camera gestures are detected, classified, and acted upon in real time.
@@ -55,7 +55,7 @@ Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) - Gr
 
 Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential
 
-## Single Shot 3D Camera
+### Single Shot 3D Camera
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
 (‘structured light’) systems is limited by the ‘ambiguity problem’. The 
@@ -77,7 +77,7 @@ Contribution: In Progress - Real time 3D Reconstruction, Algorithms
 
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
-## Swarm Robotics
+### Swarm Robotics
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
 Flight sensor. Provided bug fixes and feedback to Time of Flight vendor 
@@ -89,7 +89,7 @@ Contribution: Characterization of one dimensional sensing and SoC platform
 
 # Projects
 
-## Robot Vision Object Detection Obstacle Avoidance
+### Robot Vision Object Detection Obstacle Avoidance
 Tohoku University, Japan, Robotics Summer School
 As part of Prof. Kazuya Yoshida Space Robotics Challenge:
 Develop a vision based mobile robotic navigation system for an uncertain environment.
@@ -101,14 +101,14 @@ obstacles in a single episode physical environment.
 Contribution: 1st attendee (any year) to develop vision based navigation}
 object detection, obstacle avoidance from scratch
 
-## Learning Fundementals Poster Session
+### Learning Fundementals Poster Session
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
 summer annual summer session. I decided to create an an interactive active learning 
 poster session discussion on learning methods represented by code, math, and models. 
 
 Contribution: Interactive Poster Session on Learning Fundamentals
 
-## Various Robotics
+### Various Robotics
 Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
