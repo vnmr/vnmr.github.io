@@ -1,3 +1,6 @@
+# under construction
+pardon the dust 🐺
+
 # publications
 
 ## 3D Human Pose Detection
@@ -71,6 +74,4 @@ Flight sensor. Provided bug fixes and feedback to Time of Flight vendor
 Investigate and brought up space and power constrained SoC platform from micro-swarms. 
 Provided feedback on sensor, SoC platform feasibility to lab 
 Contribution: Characterization of one dimensional sensing and SoC platform
-
-
 
