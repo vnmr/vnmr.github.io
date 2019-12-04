@@ -1,4 +1,4 @@
-#publications
+# publications
 
 ## 3D Human Pose Detection
 We propose a new deep learning architecture that introduces a deep channel filter 
