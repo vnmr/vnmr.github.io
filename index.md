@@ -46,7 +46,9 @@ Signals from sensors are processed and classified with classical singal and mach
 learning technqiues. 
 I researched, invented, and develeped a working prototype. 
 
-Sole Inventor,https://patents.google.com/patent/WO2015131157A1/en}{Patent Granted}, https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28
+Sole Inventor,[Patent](https://patents.google.com/patent/WO2015131157A1/en)Patent Granted, 
+
+[Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
 Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential
 
@@ -107,12 +109,6 @@ Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
-https://www.youtube.com/watch?v=bqnysqX-sqw
+[Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw)
 
-https://github.com/mschlafly/baxterplaysyahtzee
-
-
-
-
-
-
+[Github](https://github.com/mschlafly/baxterplaysyahtzee)
