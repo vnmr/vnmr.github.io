@@ -9,7 +9,7 @@ and skeleton joint related constraints as losses to a previous 2-stage temporal
 deep CNN network to reduce joint position and motion errors for 3D 
 video human body pose estimation. Our model outperforms the previous reported best 
 result from the literature based on mean per-joint position error on the Human 3.6M 
-benchmark by 1\% This corresponds to a new state-of-the-art error reduction in all
+benchmark by 1% This corresponds to a new state-of-the-art error reduction in all
 categories, opening opportunites to combine these methods with future 3D human pose 
  estimators.
 
@@ -74,4 +74,35 @@ Flight sensor. Provided bug fixes and feedback to Time of Flight vendor
 Investigate and brought up space and power constrained SoC platform from micro-swarms. 
 Provided feedback on sensor, SoC platform feasibility to lab 
 Contribution: Characterization of one dimensional sensing and SoC platform
+
+# projects
+
+## Robot Vision Object Detection Obstacle Avoidance
+Tohoku University, Japan, Robotics Summer School
+As part of Prof. Kazuya Yoshida Space Robotics Challenge:
+Develop a vision based mobile robotic navigation system for an uncertain environment.
+I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense D435, 
+Robot Operating System, for control of a lego mindstorm mobile robot.
+In under 2 weeks I developed a system to successfully tracc a goal, while avoiding 
+obstacles in a single episode physical environment.
+Contribution: 1st attendee (any year) to develop vision based navigation}
+object detection, obstacle avoidance from scratch}
+
+## Learning Fundementals Poster Session
+I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
+summer annual summer session. I decided to create an an interactive active learning 
+poster session discussion on learning methods represented by code, math, and models. 
+Contribution: Interactive Poster Session on Learning Fundamentals
+
+## Various Robotics
+Various individual and team projects such as span path planning with RRT
+vision based object tracking, segmentation,\\
+Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
+https://www.youtube.com/watch?v=bqnysqX-sqw
+https://github.com/mschlafly/baxterplaysyahtzee
+
+
+
+
+
 
