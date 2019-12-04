@@ -1,7 +1,7 @@
 # under construction
 pardon the dust 🐺
 
-# publications
+# Publications
 
 ## 3D Human Pose Detection
 We propose a new deep learning architecture that introduces a deep channel filter 
@@ -36,7 +36,7 @@ media coverage.
 Contribution: Hand Held instant 3D surface reconstruction
 Co-Author, Optics Express 2019 submission
 
-# research
+# Research
 ## HCI
 A novel camera system that employs a natural Human Computer Interface.
 An operator controls a wrist mounted camera with finger gestures. 
@@ -84,7 +84,7 @@ Provided feedback on sensor, SoC platform feasibility to lab
 
 Contribution: Characterization of one dimensional sensing and SoC platform
 
-# projects
+# Projects
 
 ## Robot Vision Object Detection Obstacle Avoidance
 Tohoku University, Japan, Robotics Summer School
