@@ -18,8 +18,8 @@ Generalizable state of the art results in widely accepted benchmark
 
 First Author, CVPR 2020 Submission
 
-## 3D Surface Shape
-![Painting](w19.jpg)
+### 3D Shape Imaging
+![Painting](w19.jpg width=100)
 3D measurement of complicated surfaces with a tablet.
 The introduced system allows for the three-dimensional measurement of extended 
 specular surfaces with high surface normal variations. It consists only of a 
