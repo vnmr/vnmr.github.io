@@ -82,7 +82,8 @@ Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
 Flight sensor. Provided bug fixes and feedback to Time of Flight vendor 
 Investigate and brought up space and power constrained SoC platform from micro-swarms. 
-Provided feedback on sensor, SoC platform feasibility to lab 
+
+Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
 Contribution: Characterization of one dimensional sensing and SoC platform
 
@@ -94,7 +95,7 @@ As part of Prof. Kazuya Yoshida Space Robotics Challenge:
 Develop a vision based mobile robotic navigation system for an uncertain environment.
 I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense D435, 
 Robot Operating System, for control of a lego mindstorm mobile robot.
-In under 2 weeks I developed a system to successfully tracc a goal, while avoiding 
+In under 2 weeks I developed a system to successfully track a goal, while avoiding 
 obstacles in a single episode physical environment.
 
 Contribution: 1st attendee (any year) to develop vision based navigation}
