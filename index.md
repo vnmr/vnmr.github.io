@@ -19,7 +19,7 @@ Generalizable state of the art results in widely accepted benchmark
 First Author, CVPR 2020 Submission
 
 ### 3D Shape Imaging
-![Painting](w19.jpg width=100)
+![Painting](w19.jpg | width=100)
 3D measurement of complicated surfaces with a tablet.
 The introduced system allows for the three-dimensional measurement of extended 
 specular surfaces with high surface normal variations. It consists only of a 
@@ -98,7 +98,7 @@ Robot Operating System, for control of a lego mindstorm mobile robot.
 In under 2 weeks I developed a system to successfully track a goal, while avoiding 
 obstacles in a single episode physical environment.
 
-Contribution: 1st attendee (any year) to develop vision based navigation}
+Contribution: 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch
 
 ### Learning Fundementals Poster Session
