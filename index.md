@@ -15,6 +15,7 @@ categories, opening opportunites to combine these methods with future 3D human p
 
 Contribution: Joint constraints as losses with temporal CNNs
 Generalizable state of the art results in widely accepted benchmark
+
 First Author, CVPR 2020 Submission
 
 ## 3D Surface Shape
@@ -44,7 +45,9 @@ haptic, audio, and visual feedback components on a wearable substrate.
 Signals from sensors are processed and classified with classical singal and machine
 learning technqiues. 
 I researched, invented, and develeped a working prototype. 
+
 Sole Inventor,https://patents.google.com/patent/WO2015131157A1/en}{Patent Granted}, https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28
+
 Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential
 
 ## Single Shot 3D Camera
@@ -64,7 +67,9 @@ perspective can be varied while watching the 3D movie (see related videos).
 This work extends Prof. Florian Willomitzters "Thesis Single Shot 3D 
 Sensing Close to Physical Limits" by researching 3D physicak, information, 
 and computational limits of single-shot 3D sensing
+
 Contribution: In Progress - Real time 3D Reconstruction, Algorithms
+
 Video: https://www.youtube.com/watch?v=V6bOc3aBaHA
 
 ## Swarm Robotics
@@ -73,6 +78,7 @@ Reverse engineered pre-release SDK code/register settings for EVT Time of
 Flight sensor. Provided bug fixes and feedback to Time of Flight vendor 
 Investigate and brought up space and power constrained SoC platform from micro-swarms. 
 Provided feedback on sensor, SoC platform feasibility to lab 
+
 Contribution: Characterization of one dimensional sensing and SoC platform
 
 # projects
@@ -85,6 +91,7 @@ I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense
 Robot Operating System, for control of a lego mindstorm mobile robot.
 In under 2 weeks I developed a system to successfully tracc a goal, while avoiding 
 obstacles in a single episode physical environment.
+
 Contribution: 1st attendee (any year) to develop vision based navigation}
 object detection, obstacle avoidance from scratch}
 
@@ -92,13 +99,16 @@ object detection, obstacle avoidance from scratch}
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
 summer annual summer session. I decided to create an an interactive active learning 
 poster session discussion on learning methods represented by code, math, and models. 
+
 Contribution: Interactive Poster Session on Learning Fundamentals
 
 ## Various Robotics
 Various individual and team projects such as span path planning with RRT
-vision based object tracking, segmentation,\\
+vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
+
 https://www.youtube.com/watch?v=bqnysqX-sqw
+
 https://github.com/mschlafly/baxterplaysyahtzee
 
 
