@@ -1,4 +1,4 @@
-# under construction
+# under construction 
 pardon the dust 🐺
 
 # Publications
@@ -19,6 +19,7 @@ Generalizable state of the art results in widely accepted benchmark
 First Author, CVPR 2020 Submission
 
 ## 3D Surface Shape
+![Painting](w19.jpg)
 3D measurement of complicated surfaces with a tablet.
 The introduced system allows for the three-dimensional measurement of extended 
 specular surfaces with high surface normal variations. It consists only of a 
@@ -36,6 +37,7 @@ media coverage.
 Contribution: Hand Held instant 3D surface reconstruction
 Co-Author, Optics Express 2019 submission
 
+
 # Research
 ## HCI
 A novel camera system that employs a natural Human Computer Interface.
@@ -47,7 +49,7 @@ Signals from sensors are processed and classified with classical singal and mach
 learning technqiues. 
 I researched, invented, and develeped a working prototype. 
 
-Sole Inventor,[Patent](https://patents.google.com/patent/WO2015131157A1/en)Patent Granted, 
+Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) - Granted
 
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
@@ -96,7 +98,7 @@ In under 2 weeks I developed a system to successfully tracc a goal, while avoidi
 obstacles in a single episode physical environment.
 
 Contribution: 1st attendee (any year) to develop vision based navigation}
-object detection, obstacle avoidance from scratch}
+object detection, obstacle avoidance from scratch
 
 ## Learning Fundementals Poster Session
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
