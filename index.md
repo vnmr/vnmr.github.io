@@ -89,6 +89,7 @@ and computational limits of single-shot 3D sensing
 ### Swarm Robotics
 <img src="360sense.png" alt="Sensing" width="200"/>
 <img src="sense.png" alt="Sensing" width="200"/>
+<img src="swarm.jpg" alt="Swarm Bot Example" width="200"/>
 
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
@@ -171,6 +172,7 @@ Gazebo Custom Arm, Turtlesim etc
 **Manipulation**
 
 <img src="baxter.jpg" alt="YahtzeeArm" width="300"/> 
+<img src="sawyer.jpg" alt="YahtzeeArm" width="300"/> 
 
 ie Sawyer, Baxter
 
