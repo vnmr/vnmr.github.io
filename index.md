@@ -170,7 +170,7 @@ generated environments and explore use of Unity3d's ML-Agents.
 
 ### Robotics
 
-**Vision**
+***Vision***
 
 <img src="objectracking.png" alt="Object Tracking" width="400"/> 
 
@@ -178,14 +178,14 @@ I've worked on Computer Vision using hand coded image processing techniques (Seg
 
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw&feature=emb_logo)
 
-**Simulation**
+***Simulation***
 
 <img src="vizarmcontrol.png" alt="Arm Motion" width="300"/> 
 <img src="turtle.png" alt="Arm Motion" width="300"/>
 
 Gazebo Custom Arm, Turtlesim etc
 
-**Manipulation**
+***Manipulation***
 
 <img src="baxter.jpg" alt="YahtzeeArm" width="300"/> 
 <img src="sawyer.jpg" alt="YahtzeeArm" width="300"/> 
