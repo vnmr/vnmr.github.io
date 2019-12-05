@@ -15,10 +15,10 @@ benchmark by 1% This corresponds to a new state-of-the-art error reduction in al
 categories, opening opportunites to combine these methods with future 3D human pose 
  estimators.
 
-*Contribution: Joint constraints as losses with temporal CNNs
-Generalizable state of the art results in widely accepted benchmark*
+**Contribution: Joint constraints as losses with temporal CNNs
+Generalizable state of the art results in widely accepted benchmark**
 
-*Contribution: First Author, CVPR 2020 Submission*
+**Contribution: First Author, CVPR 2020 Submission**
 
 ### 3D Shape Imaging
 ![3D Imaging](w19.jpg)
@@ -37,8 +37,8 @@ and accessible to users with little to no technical imaging experience.
 We developed a ‘surface measurement app’ that received an overwhelming amount of
 media coverage.
 
-*Contribution: Hand Held instant 3D surface reconstruction
-Co-Author, Optics Express 2019 submission*
+**Contribution: Hand Held instant 3D surface reconstruction
+Co-Author, Optics Express 2019 submission**
 
 
 # Research
@@ -76,7 +76,7 @@ This work extends Prof. Florian Willomitzters "Thesis Single Shot 3D
 Sensing Close to Physical Limits" by researching 3D physicak, information, 
 and computational limits of single-shot 3D sensing
 
-*Contribution: In Progress - Real time 3D Reconstruction, Algorithms*
+**Contribution: In Progress - Real time 3D Reconstruction, Algorithms**
 
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
@@ -88,7 +88,7 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
-*Contribution: Characterization of one dimensional sensing and SoC platform*
+**Contribution: Characterization of one dimensional sensing and SoC platform**
 
 # Projects
 
@@ -101,15 +101,15 @@ Robot Operating System, for control of a lego mindstorm mobile robot.
 In under 2 weeks I developed a system to successfully track a goal, while avoiding 
 obstacles in a single episode physical environment.
 
-*Contribution: 1st attendee (any year) to develop vision based navigation
-object detection, obstacle avoidance from scratch*
+**Contribution: 1st attendee (any year) to develop vision based navigation
+object detection, obstacle avoidance from scratch**
 
 ### Learning Fundementals Poster Session
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
 summer annual summer session. I decided to create an an interactive active learning 
 poster session discussion on learning methods represented by code, math, and models. 
 
-*Contribution: Interactive Poster Session on Learning Fundamentals*
+**Contribution: Interactive Poster Session on Learning Fundamentals**
 
 ### Various Robotics
 Various individual and team projects such as span path planning with RRT
