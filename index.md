@@ -1,6 +1,8 @@
 # under construction 
 pardon the dust 🐺
 
+todo: update images
+
 # Publications
 
 ### 3D Human Pose Detection
@@ -16,9 +18,9 @@ categories, opening opportunites to combine these methods with future 3D human p
  estimators.
 
 **Contribution: Joint constraints as losses with temporal CNNs
-Generalizable state of the art results in widely accepted benchmark**
+Generalizable state of the art results in widely accepted benchmark
 
-**Contribution: First Author, CVPR 2020 Submission**
+First Author, CVPR 2020 Submission**
 
 ### 3D Shape Imaging
 ![3D Imaging](w19.jpg)
@@ -52,7 +54,7 @@ Signals from sensors are processed and classified with classical singal and mach
 learning technqiues. 
 I researched, invented, and develeped a working prototype. 
 
-Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) - Granted
+** Contribution: Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) - Granted **
 
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
