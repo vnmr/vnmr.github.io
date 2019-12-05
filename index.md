@@ -46,7 +46,7 @@ Co-Author, Optics Express 2019 submission**
 
 # Research
 ### HCI
-![Gesture](gesture.png)
+<img src="gesture.png" alt="Gesture" width="300"/>
 
 A novel camera system that employs a natural Human Computer Interface.
 An operator controls a wrist mounted camera with finger gestures. 
@@ -64,8 +64,8 @@ I researched, invented, and develeped a working prototype.
 *Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
 
 ### Single Shot 3D Camera
-![3D Face](3dface.png)
-![3D Scanner](3dscanner.jpg)
+<img src="3dscanner.jpg" alt="3D Face" width="300"/>
+<img src="3dface.jpg" alt="3D Face" width="300"/>
 
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
