@@ -18,9 +18,9 @@ categories, opening opportunites to combine these methods with future 3D human p
  estimators.
 
 **Contribution: Joint constraints as losses with temporal CNNs
-Generalizable state of the art results in widely accepted benchmark
+Generalizable state of the art results in widely accepted benchmark**
 
-First Author, CVPR 2020 Submission**
+**First Author, CVPR 2020 Submission**
 
 ### 3D Shape Imaging
 ![3D Imaging](w19.jpg)
@@ -75,7 +75,7 @@ encompasses the full 3D information about the object surface, and the observatio
 perspective can be varied while watching the 3D movie (see related videos).
 
 This work extends Prof. Florian Willomitzters "Thesis Single Shot 3D 
-Sensing Close to Physical Limits" by researching 3D physicak, information, 
+Sensing Close to Physical Limits" by researching 3D physical, information, 
 and computational limits of single-shot 3D sensing
 
 **Contribution: In Progress - Real time 3D Reconstruction, Algorithms**
