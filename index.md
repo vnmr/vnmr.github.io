@@ -126,7 +126,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 <img src="dyninternal.png" alt="Dynamics Internal" width="200"/>
 <img src="dynexternal.png" alt="Dynamics External" width="200"/>
-<img src="mbounce.png" alt="Bounce" width="250"/>
+<img src="mbounce.png" alt="Bounce" width="100"/>
 
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
 Micro-hopping robot for asteroid exploration. I modeled Lagrangian dynamics 
@@ -150,7 +150,6 @@ generated environments and explore use of Unity3Ds ML-Agents.
 
 <img src="unityboxstart.png" alt="Box Start" width="250"/>
 <img src="unityboxflight.png" alt="Box Flight" width="250"/>
-<img src="unityboxpreimpact.png" alt="Box PreImpact" width="250"/>
 <img src="unityboxdown.png" alt="Box Down" width="250"/>
 
 ### Various Robotics
