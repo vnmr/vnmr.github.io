@@ -127,7 +127,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ### Modeling
 
 #### Mathematica
-<img src="mbounce.png" width="300"/>
+![Bounce](mbounce.png)
 
 #### Unity3d
 <img src="unityhop.png" alt="Unity Hop" width="300"/>
