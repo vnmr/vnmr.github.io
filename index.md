@@ -45,6 +45,8 @@ Co-Author, Optics Express 2019 submission**
 
 # Research
 ### HCI
+![Gesture](gesture.png)
+
 A novel camera system that employs a natural Human Computer Interface.
 An operator controls a wrist mounted camera with finger gestures. 
 The camera gestures are detected, classified, and acted upon in real time.
