@@ -23,7 +23,7 @@ Generalizable state of the art results in widely accepted benchmark**
 **First Author, CVPR 2020 Submission**
 
 ### 3D Shape Imaging
-![3D Imaging](w19.jpg)
+![3D Imaging](w19.jpg = x100)
 
 3D measurement of complicated surfaces with a tablet.
 The introduced system allows for the three-dimensional measurement of extended 
