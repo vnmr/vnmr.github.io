@@ -4,6 +4,7 @@ pardon the dust 🐺
 # Publications
 
 ### 3D Human Pose Detection
+![Pose](pose.jpg)
 We propose a new deep learning architecture that introduces a deep channel filter 
 and skeleton joint related constraints as losses to a previous 2-stage temporal 
 deep CNN network to reduce joint position and motion errors for 3D 
@@ -19,7 +20,7 @@ Generalizable state of the art results in widely accepted benchmark
 First Author, CVPR 2020 Submission
 
 ### 3D Shape Imaging
-![Painting](w19.jpg | width=100)
+![3D Imaging](w19.jpg)
 3D measurement of complicated surfaces with a tablet.
 The introduced system allows for the three-dimensional measurement of extended 
 specular surfaces with high surface normal variations. It consists only of a 
