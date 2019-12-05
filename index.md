@@ -129,9 +129,10 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ![Bounce](mbounce.png)
 
 #### Unity3d
-<img src="unityhop.png" alt="Unity Hop" width="300"/>
-<img src="unityhopwindow.png" alt="Unity Hop Window" width="300"/>
-![](unityhopwindow2.png)
+<img src="unityhop.png" alt="Unity Hop" width="250"/>
+<img src="unityhopwindow.png" alt="Unity Hop Window" width="250"/>
+<img src="unityhopwindow2.png" alt="Unity Hop Window" width="250"/>
+
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
 Micro-hopping robot for asteroid exploration. I modeled the dynamics 
 in Mathematica and created an interactive game simulation in Unity3d. 
@@ -171,4 +172,4 @@ ie Sawyer, Baxter
 
 <img src="pidarm.png" alt="PID Arm" width="200"/> <img src="piderror.png" alt="PID Error" width="200"/>
 
-ie PID Controlled Arm - Full electronics, Firmware, Tuning
+ie PID Controlled Arm - Full electronics, Firmware, development and Tuning
