@@ -175,7 +175,7 @@ generated environments and explore use of Unity3d's ML-Agents.
 
 <img src="objectracking.png" alt="Object Tracking" width="400"/> 
 
-I've worked on Computer Vision using hand coded image processing techniques (Segmentation, Enhancement etc), OpenCV libs in ROS (Object Detection, Tracking), and CNNs (Pose Estimation) for a variety of projects. 
+I've worked on Computer Vision using hand coded image processing techniques (no Libraries), OpenCV libs in ROS (Object Detection, Tracking), and CNNs (Pose Estimation) for a variety of projects. 
 
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw&feature=emb_logo)
 
