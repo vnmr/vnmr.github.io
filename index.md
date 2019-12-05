@@ -5,6 +5,7 @@ pardon the dust 🐺
 
 ### 3D Human Pose Detection
 ![Pose](pose.png)
+
 We propose a new deep learning architecture that introduces a deep channel filter 
 and skeleton joint related constraints as losses to a previous 2-stage temporal 
 deep CNN network to reduce joint position and motion errors for 3D 
