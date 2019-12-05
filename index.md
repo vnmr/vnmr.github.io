@@ -52,7 +52,7 @@ An operator controls a wrist mounted camera with finger gestures.
 The camera gestures are detected, classified, and acted upon in real time.
 The system is comprised of an embedded computer, inertial and force sensors
 haptic, audio, and visual feedback components on a wearable substrate. 
-Signals from sensors are processed and classified with classical singal and machine
+Signals from sensors are processed and classified with classical signal and machine
 learning techniques. I researched, invented, and developed a working prototype. 
 
 **Contribution: Sole Inventor** [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
@@ -123,6 +123,8 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
 #### Mathematica & Unity3d
+<img src="dyninternal.png" alt="Dynamics Internal" width="250"/>
+<img src="dynexternal.png" alt="Dynamics External" width="250"/>
 <img src="mbounce.png" alt="Bounce" width="250"/>
 <img src="unityhop.png" alt="Unity Hop" width="250"/>
 <img src="unityhopwindow.png" alt="Unity Hop Window" width="250"/>
@@ -130,7 +132,15 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
 Micro-hopping robot for asteroid exploration. I modeled the dynamics 
-in Mathematica and created an interactive game simulation in Unity3d. 
+in Mathematica. 
+
+- 2 <DoF <5 x, y, rotation on at least one axis (ie z)
+- Rotational Inertia Torquer
+- Impacts Torquer to Enclosure, Enclosure to Surface
+- External Force Simulated torquer motor torque
+
+I created an interactive game simulation in Unity3d. 
+
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
 generated environments and explore use of Unity3Ds ML-Agents. 
 
