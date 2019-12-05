@@ -1,4 +1,4 @@
-pardon the dust 🐺 updating images...
+under construction 🐺 pardon the dust ...
 
 # Summary
 sensing, planning, learning, control, modeling
@@ -123,6 +123,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
 ***Mathematica***
+
 <img src="dyninternal.png" alt="Dynamics Internal" width="200"/>
 <img src="dynexternal.png" alt="Dynamics External" width="200"/>
 <img src="mbounce.png" alt="Bounce" width="250"/>
