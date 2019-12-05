@@ -153,9 +153,8 @@ generated environments and explore use of Unity3d's ML-Agents.
 ### Various Robotics
 
 **Vision**
-<img src="objectracking.png" alt="Object Tracking" width="400"/> 
 
-My lab mate demonstrates our object tracker. 
+<img src="objectracking.png" alt="Object Tracking" width="400"/> 
 
 I've worked on Computer Vision using hand coded image processing techniques (Segmentation, Enhancement etc), OpenCV libs in ROS (Object Detection, Tracking), and CNNs (Pose Estimation) for a variety of projects. 
 
