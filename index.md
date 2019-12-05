@@ -18,7 +18,7 @@ categories, opening opportunites to combine these methods with future 3D human p
 *Contribution: Joint constraints as losses with temporal CNNs
 Generalizable state of the art results in widely accepted benchmark*
 
-First Author, CVPR 2020 Submission
+*Contribution: First Author, CVPR 2020 Submission*
 
 ### 3D Shape Imaging
 ![3D Imaging](w19.jpg)
