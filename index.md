@@ -24,6 +24,7 @@ Generalizable state of the art results in widely accepted benchmark**
 
 
 ### 3D Shape Imaging
+<img src="defltable.jpg" alt="3d" width="200"/>
 <img src="w19.jpg" alt="3d" width="200"/>
 
 3D measurement of complicated surfaces with a tablet.
@@ -97,7 +98,7 @@ and computational limits of single-shot 3D sensing
 
 
 ### Swarm Robotics
-<img src="360sense.png" alt="Sensing" width="200"/>
+<img src="tofboard.jpg" alt="Sensing" width="200"/>
 <img src="sense.png" alt="Sensing" width="200"/>
 <img src="swarm.jpg" alt="Swarm Bot Example" width="200"/>
 
