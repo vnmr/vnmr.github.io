@@ -89,6 +89,8 @@ and computational limits of single-shot 3D sensing
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
 ### Swarm Robotics
+![Sense](sense.png)
+
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
 Flight sensor. Provided bug fixes and feedback to Time of Flight vendor 
