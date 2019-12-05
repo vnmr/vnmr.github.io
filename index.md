@@ -145,10 +145,10 @@ in Mathematica.
 <img src="unityhopwindow.png" alt="Unity Hop Window" width="200"/>
 <img src="unityhopwindow2.png" alt="Unity Hop Window" width="200"/>
 
-For a more dynamic environment, I created an interactive game simulation for hopping robots on asteroid like rocks with orbital gravity in Unity3d. 
+For a more dynamic environment, I created an interactive game simulation for hopping robots on asteroids with orbital gravity in Unity3d. 
 
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
-generated environments and explore use of Unity3Ds ML-Agents. 
+generated environments and explore use of Unity3d's ML-Agents. 
 
 ### Various Robotics
 
@@ -167,7 +167,7 @@ Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 <img src="vizarmcontrol.png" alt="Arm Motion" width="300"/> 
 <img src="turtle.png" alt="Arm Motion" width="300"/>
 
-Turtlesim, custom Arms etc
+Gazebo Custom Arm, Turtlesim etc
 
 **Manipulation**
 
