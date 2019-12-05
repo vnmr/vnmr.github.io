@@ -129,7 +129,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ![Bounce](mbounce.png)
 
 #### Unity3d
-![](unityhop.png)
+<img src="unityhop.png" alt="Unity Hop" width="300"/>
 ![](unityhopwindow.png)
 ![](unityhopwindow2.png)
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
@@ -146,6 +146,9 @@ generated environments and explore use of Unity3Ds ML-Agents.
 ### Various Robotics
 
 **Vision**
+
+IMG TBD....
+
 ie Cube Stacking, Die reading etc
 
 Various individual and team projects such as span path planning with RRT
@@ -153,15 +156,17 @@ vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
 **Simulation**
+<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
+<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
+
 Turtlesim, custom Arms etc
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
 
 **Manipulation**
 ie Sawyer, Baxter
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
 ### Mechatronics
-ie PID Controlled Arm - Full electronics, Firmware, Tuning
+
 <img src="pidarm.png" alt="PID Arm" width="200"/> <img src="piderror.png" alt="PID Error" width="200"/>
 
+ie PID Controlled Arm - Full electronics, Firmware, Tuning
