@@ -1,4 +1,3 @@
-# under construction 
 pardon the dust 🐺 updating images...
 
 # Summary
@@ -127,12 +126,18 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ### Modeling
 
 #### Mathematica
+
 ![Bounce](mbounce.png)
 
 #### Unity3d
 ![](unityhop.png)
 ![](unityhopwindow.png)
 ![](unityhopwindow2.png)
+I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
+Micro-hopping robot for asteroid exploration. I modeled the dynamics 
+in Mathematica and created an interactive game simulation in Unity3d. 
+I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
+generated environments and explore use of Unity3Ds ML-Agents. 
 
 ![](unityboxstart.png)
 ![](unityboxflight.png)
