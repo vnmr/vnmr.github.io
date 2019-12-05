@@ -153,14 +153,13 @@ generated environments and explore use of Unity3d's ML-Agents.
 ### Various Robotics
 
 **Vision**
+<img src="objectracking.png" alt="Object Tracking" width="400"/> 
 
-IMG TBD....
+My lab mate demonstrates our object tracker. 
 
-ie Cube Stacking, Die reading etc
+I've worked on Computer Vision using hand coded image processing techniques (Segmentation, Enhancement etc), OpenCV libs in ROS (Object Detection, Tracking), and CNNs (Pose Estimation) for a variety of projects. 
 
-Various individual and team projects such as span path planning with RRT
-vision based object tracking, segmentation,
-Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
+[Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw&feature=emb_logo)
 
 **Simulation**
 
@@ -174,7 +173,7 @@ Gazebo Custom Arm, Turtlesim etc
 <img src="baxter.jpg" alt="YahtzeeArm" width="300"/> 
 <img src="sawyer.jpg" alt="YahtzeeArm" width="300"/> 
 
-ie Sawyer, Baxter
+Use of Sawyer and Baxter for Vision, Manipulation tasks such as playing dice. 
 
 [Youtube](https://www.youtube.com/watch?v=vOceYSICtQc) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
