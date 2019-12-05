@@ -56,11 +56,11 @@ Signals from sensors are processed and classified with classical singal and mach
 learning technqiues. 
 I researched, invented, and develeped a working prototype. 
 
-** Contribution: Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) - Granted **
+**Contribution: Sole Inventor** [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
 
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
-Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential
+*Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
 
 ### Single Shot 3D Camera
 ![3D Face](3dface.png)
@@ -94,7 +94,7 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
-**Contribution: Characterization of one dimensional sensing and SoC platform**
+**Contribution: Characterization of micro swarm robotic sensing and SoC platform**
 
 # Projects
 
