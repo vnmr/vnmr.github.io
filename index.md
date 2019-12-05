@@ -122,7 +122,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
-#### Mathematica & Unity3d
+***Mathematica***
 <img src="dyninternal.png" alt="Dynamics Internal" width="200"/>
 <img src="dynexternal.png" alt="Dynamics External" width="200"/>
 <img src="mbounce.png" alt="Bounce" width="250"/>
@@ -136,11 +136,12 @@ in Mathematica.
 - Impacts Torquer to Enclosure, Enclosure to Surface
 - External Force Simulated torquer motor torque
 
+***Unity***
 <img src="unityhop.png" alt="Unity Hop" width="200"/>
 <img src="unityhopwindow.png" alt="Unity Hop Window" width="200"/>
 <img src="unityhopwindow2.png" alt="Unity Hop Window" width="200"/>
 
-I created an interactive game simulation in Unity3d. 
+For a more dynamic environment, I created an interactive game simulation in Unity3d. 
 
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
 generated environments and explore use of Unity3Ds ML-Agents. 
