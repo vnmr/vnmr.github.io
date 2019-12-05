@@ -61,6 +61,8 @@ I researched, invented, and develeped a working prototype.
 Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential
 
 ### Single Shot 3D Camera
+![3D Face](3dface.png)
+
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
 (‘structured light’) systems is limited by the ‘ambiguity problem’. The 
