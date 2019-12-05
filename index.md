@@ -42,7 +42,7 @@ media coverage.
 **Contribution: Hand Held instant 3D surface reconstruction
 Co-Author, Optics Express 2019 submission**
 
-**Press** [Science](https://science.sciencemag.org/content/363/6429/796) [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
+**Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
 # Research
 ### HCI
