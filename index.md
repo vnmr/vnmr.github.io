@@ -150,10 +150,6 @@ For a more dynamic environment, I created an interactive game simulation in Unit
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
 generated environments and explore use of Unity3Ds ML-Agents. 
 
-<img src="unityboxstart.png" alt="Box Start" width="250"/>
-<img src="unityboxflight.png" alt="Box Flight" width="250"/>
-<img src="unityboxdown.png" alt="Box Down" width="250"/>
-
 ### Various Robotics
 
 **Vision**
