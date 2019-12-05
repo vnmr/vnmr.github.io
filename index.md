@@ -16,9 +16,8 @@ and skeleton joint related constraints as losses to a previous 2-stage temporal
 deep CNN network to reduce joint position and motion errors for 3D 
 video human body pose estimation. Our model outperforms the previous reported best 
 result from the literature based on mean per-joint position error on the Human 3.6M 
-benchmark by 1% This corresponds to a new state-of-the-art error reduction in all
-categories, opening opportunites to combine these methods with future 3D human pose 
- estimators.
+benchmark by 1%, and improves motion smoothness over the baseline architecture. 
+This corresponds to a new state-of-the-art error reduction in all categories, opening opportunites to combine these methods with future 3D human pose estimators.
 
 **Contribution: Joint constraints as losses with temporal CNNs
 Generalizable state of the art results in widely accepted benchmark**
@@ -142,21 +141,22 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 <img src="unityboxflight.png" alt="Unity Flight"width="300"/>
 <img src="unityboxpreimpact.png" alt="Unity Pre Impact"width="300"/>
 <img src="unityboxdown.png" alt="Unity Post Impact"width="300"/>
+
 ### Various Robotics
 
-#### Vision
+**Vision**
 ie Cube Stacking, Die reading etc
 
 Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
-#### Simulation
+**Simulation**
 Turtlesim, custom Arms etc
 <img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
 <img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
 
-#### Manipulation
+**Manipulation**
 ie Sawyer, Baxter
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
