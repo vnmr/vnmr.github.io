@@ -117,10 +117,12 @@ object detection, obstacle avoidance from scratch**
 <img src="learning.png" alt="Learning" width="300"/>
 
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
-summer annual summer session. I created an interactive active learning 
-poster to discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
+summer annual summer session. I created an interactive learning 
+poster to help network at the summer event and discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
+
+### Modeling / Simulation
 
 ***Mathematica***
 
