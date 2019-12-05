@@ -111,9 +111,12 @@ obstacles in a single episode physical environment.
 object detection, obstacle avoidance from scratch**
 
 ### Learning Fundementals Poster Session
+
+![Learning](learning.png)
+
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
-summer annual summer session. I decided to create an an interactive active learning 
-poster session discussion on learning methods represented by code, math, and models. 
+summer annual summer session. I created an interactive active learning 
+poster to discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
