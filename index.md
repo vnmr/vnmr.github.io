@@ -122,13 +122,8 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
-### Modeling
-
-#### Mathematica
-
-![Bounce](mbounce.png)
-
-#### Unity3d
+#### Mathematica & Unity3d
+<img src="mbounce.png" alt="Bounce" width="250"/>
 <img src="unityhop.png" alt="Unity Hop" width="250"/>
 <img src="unityhopwindow.png" alt="Unity Hop Window" width="250"/>
 <img src="unityhopwindow2.png" alt="Unity Hop Window" width="250"/>
@@ -139,10 +134,10 @@ in Mathematica and created an interactive game simulation in Unity3d.
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
 generated environments and explore use of Unity3Ds ML-Agents. 
 
-![](unityboxstart.png)
-![](unityboxflight.png)
-![](unityboxpreimpact.png)
-![](unityboxdown.png)
+<img src="unityboxstart.png" alt="Box Start" width="250"/>
+<img src="unityboxflight.png" alt="Box Flight" width="250"/>
+<img src="unityboxpreimpact.png" alt="Box PreImpact" width="250"/>
+<img src="unityboxdown.png" alt="Box Down" width="250"/>
 
 ### Various Robotics
 
