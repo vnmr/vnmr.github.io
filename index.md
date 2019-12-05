@@ -65,7 +65,7 @@ I researched, invented, and develeped a working prototype.
 
 ### Single Shot 3D Camera
 <img src="3dscanner.jpg" alt="3D Face" width="300"/>
-<img src="3dface.jpg" alt="3D Face" width="300"/>
+<img src="3dface.png" alt="3D Face" width="300"/>
 
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
