@@ -1,5 +1,7 @@
 # under construction 
-pardon the dust 🐺 updating images...
+pardon the dust 🐺
+
+todo: update images
 
 # Summary
 sensing, planning, learning, control, modeling
@@ -14,8 +16,9 @@ and skeleton joint related constraints as losses to a previous 2-stage temporal
 deep CNN network to reduce joint position and motion errors for 3D 
 video human body pose estimation. Our model outperforms the previous reported best 
 result from the literature based on mean per-joint position error on the Human 3.6M 
-benchmark by 1%, and improves motion smoothness over the baseline architecture. 
-This corresponds to a new state-of-the-art error reduction in all categories, opening opportunites to combine these methods with future 3D human pose estimators.
+benchmark by 1% This corresponds to a new state-of-the-art error reduction in all
+categories, opening opportunites to combine these methods with future 3D human pose 
+ estimators.
 
 **Contribution: Joint constraints as losses with temporal CNNs
 Generalizable state of the art results in widely accepted benchmark**
@@ -54,7 +57,8 @@ The camera gestures are detected, classified, and acted upon in real time.
 The system is comprised of an embedded computer, inertial and force sensors
 haptic, audio, and visual feedback components on a wearable substrate. 
 Signals from sensors are processed and classified with classical singal and machine
-learning techniques. I researched, invented, and develeped a working prototype. 
+learning technqiues. 
+I researched, invented, and develeped a working prototype. 
 
 **Contribution: Sole Inventor** [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
 
@@ -79,8 +83,8 @@ resulting in a continuous 3D movie. Like a hologram, each movie-frame
 encompasses the full 3D information about the object surface, and the observation
 perspective can be varied while watching the 3D movie (see related videos).
 
-This work extends Prof. Florian Willomitzters Thesis *"Single Shot 3D 
-Sensing Close to Physical Limits"* by researching 3D physical, information, 
+This work extends Prof. Florian Willomitzters "Thesis Single Shot 3D 
+Sensing Close to Physical Limits" by researching 3D physical, information, 
 and computational limits of single-shot 3D sensing
 
 **Contribution: In Progress - Real time 3D Reconstruction, Algorithms**
@@ -98,7 +102,7 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
-**Contribution: Bringup and characterization of micro swarm robotic sensing and SoC platform**
+**Contribution: Characterization of micro swarm robotic sensing and SoC platform**
 
 # Projects
 
@@ -127,38 +131,25 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ### Modeling
 
 #### Mathematica
-<img src="mbounce.png" width="300"/>
 
 #### Unity3d
-<img src="unityhop.png" alt="Unity Hop" width="300"/>
-<img src="unityhopwindow.png" alt="Unity Hop" width="300"/>
-<img src="unityhopwindow2.png" alt="Unity Hop"width="300"/>
-
-<img src="unityboxstart.png" alt="Unity Start"width="300"/>
-<img src="unityboxflight.png" alt="Unity Flight"width="300"/>
-<img src="unityboxpreimpact.png" alt="Unity Pre Impact"width="300"/>
-<img src="unityboxdown.png" alt="Unity Post Impact"width="300"/>
 
 ### Various Robotics
 
-**Vision**
+#### Vision
 ie Cube Stacking, Die reading etc
 
 Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
-**Simulation**
+#### Simulation
 Turtlesim, custom Arms etc
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
 
-**Manipulation**
+#### Manipulation
 ie Sawyer, Baxter
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
 ### Mechatronics
 ie PID Controlled Arm - Full electronics, Firmware, Tuning
-<img src="pidarm.png" alt="PID Arm" width="300"/>
-<img src="piderror.png" alt="PID Error" width="300"/>
 
