@@ -1,7 +1,5 @@
 # under construction 
-pardon the dust 🐺
-
-todo: update images
+pardon the dust 🐺 updating images...
 
 # Summary
 sensing, planning, learning, control, modeling
@@ -56,8 +54,7 @@ The camera gestures are detected, classified, and acted upon in real time.
 The system is comprised of an embedded computer, inertial and force sensors
 haptic, audio, and visual feedback components on a wearable substrate. 
 Signals from sensors are processed and classified with classical singal and machine
-learning technqiues. 
-I researched, invented, and develeped a working prototype. 
+learning techniques. I researched, invented, and develeped a working prototype. 
 
 **Contribution: Sole Inventor** [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
 
@@ -82,8 +79,8 @@ resulting in a continuous 3D movie. Like a hologram, each movie-frame
 encompasses the full 3D information about the object surface, and the observation
 perspective can be varied while watching the 3D movie (see related videos).
 
-This work extends Prof. Florian Willomitzters "Thesis Single Shot 3D 
-Sensing Close to Physical Limits" by researching 3D physical, information, 
+This work extends Prof. Florian Willomitzters Thesis *"Single Shot 3D 
+Sensing Close to Physical Limits"* by researching 3D physical, information, 
 and computational limits of single-shot 3D sensing
 
 **Contribution: In Progress - Real time 3D Reconstruction, Algorithms**
@@ -101,7 +98,7 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
-**Contribution: Characterization of micro swarm robotic sensing and SoC platform**
+**Contribution: Bringup and characterization of micro swarm robotic sensing and SoC platform**
 
 # Projects
 
@@ -130,7 +127,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 ### Modeling
 
 #### Mathematica
-<img src="mbounce.png" alt="Elastic Impact Mathematica" width="300"/>
+<img src="mbounce.png" alt="ElasticImpactMathematica" width="300"/>
 
 #### Unity3d
 <img src="unityhop.png" alt="Unity Hop" width="300"/>
