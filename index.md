@@ -3,6 +3,9 @@ pardon the dust 🐺
 
 todo: update images
 
+# Summary
+sensing, planning, learning, control, modeling
+
 # Publications
 
 ### 3D Human Pose Detection
@@ -125,9 +128,40 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
+### Modeling
+
+#### Mathematica
+<img src="mbounce.png" alt="Elastic Impact Mathematica" width="300"/>
+
+#### Unity3d
+<img src="unityhop.png" alt="Unity Hop" width="300"/>
+<img src="unityhopwindow.png" alt="Unity Hop" width="300"/>
+<img src="unityhopwindow2.png" alt="Unity Hop"width="300"/>
+
+<img src="unityboxstart.png" alt="Unity Start"width="300"/>
+<img src="unityboxflight.png" alt="Unity Flight"width="300"/>
+<img src="unityboxpreimpact.png" alt="Unity Pre Impact"width="300"/>
+<img src="unityboxdown.png" alt="Unity Post Impact"width="300"/>
 ### Various Robotics
+
+#### Vision
+ie Cube Stacking, Die reading etc
+
 Various individual and team projects such as span path planning with RRT
 vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
+#### Simulation
+Turtlesim, custom Arms etc
+<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
+<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
+
+#### Manipulation
+ie Sawyer, Baxter
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
+
+### Mechatronics
+ie PID Controlled Arm - Full electronics, Firmware, Tuning
+<img src="pidarm.png" alt="PID Arm" width="300"/>
+<img src="piderror.png" alt="PID Error" width="300"/>
+
