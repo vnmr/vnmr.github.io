@@ -130,7 +130,7 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 
 #### Unity3d
 <img src="unityhop.png" alt="Unity Hop" width="300"/>
-![](unityhopwindow.png)
+<img src="unityhopwindow.png" alt="Unity Hop Window" width="300"/>
 ![](unityhopwindow2.png)
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
 Micro-hopping robot for asteroid exploration. I modeled the dynamics 
@@ -156,13 +156,15 @@ vision based object tracking, segmentation,
 Manipulation using ROS, Gazebo, turtlesim, Sawyer, Baxter etc.
 
 **Simulation**
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
-<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
+
+<img src="vizarmcontrol.png" alt="Arm Motion" width="300"/> <img src="vizarmcontrol.png" alt="Arm Motion" width="300"/>
 
 Turtlesim, custom Arms etc
 
 **Manipulation**
+
 ie Sawyer, Baxter
+
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
 ### Mechatronics
