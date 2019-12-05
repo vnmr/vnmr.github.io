@@ -53,7 +53,7 @@ The camera gestures are detected, classified, and acted upon in real time.
 The system is comprised of an embedded computer, inertial and force sensors
 haptic, audio, and visual feedback components on a wearable substrate. 
 Signals from sensors are processed and classified with classical singal and machine
-learning techniques. I researched, invented, and develeped a working prototype. 
+learning techniques. I researched, invented, and developed a working prototype. 
 
 **Contribution: Sole Inventor** [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
 
@@ -107,8 +107,7 @@ Provided feedback on sensor, SoC platform feasibility to lab for sensing, mappin
 Prof. Kazuya Yoshida Space Robotics Challenge at Tohoku University, Japan, Robotics Summer School: Build vision based mobile robotic navigation system for an uncertain environment.
 I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense D435, 
 Robot Operating System, for control of a lego mindstorm mobile robot.
-In under 2 weeks I developed a system to successfully track a goal, while avoiding 
-obstacles in a single episode physical environment.
+With limited time outside of the summer school curriculum, I developed a system to successfully track a goal, while avoiding obstacles in a single episode physical environment.
 
 **Contribution: 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch**
@@ -164,6 +163,5 @@ ie Sawyer, Baxter
 
 ### Mechatronics
 ie PID Controlled Arm - Full electronics, Firmware, Tuning
-<img src="pidarm.png" alt="PID Arm" width="300"/>
-<img src="piderror.png" alt="PID Error" width="300"/>
+<img src="pidarm.png" alt="PID Arm" width="200"/> <img src="piderror.png" alt="PID Error" width="200"/>
 
