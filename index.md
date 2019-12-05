@@ -134,7 +134,7 @@ I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2
 Micro-hopping robot for asteroid exploration. I modeled Lagrangian dynamics 
 in Mathematica. 
 
-- 2 <DoF <5 x, y, rotation on at least one axis (ie z)
+- 3 DoF, x,y, rotation on z
 - Rotational Inertia Torquer
 - Impacts Torquer to Enclosure, Enclosure to Surface
 - External Force Simulated torquer motor torque
@@ -174,8 +174,10 @@ ie Sawyer, Baxter
 
 [Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
-### Mechatronics
+### Mechatronics / Control
 
-<img src="pidarm.png" alt="PID Arm" width="200"/> <img src="piderror.png" alt="PID Error" width="200"/>
+<img src="pidarm.png" alt="PID Arm" width="200"/> 
+<img src="piderror.png" alt="PID Error" width="200"/>
+<img src="piderrorbit.png" alt="PID Error" width="200"/>
 
 ie PID Controlled Arm - Full electronics, Firmware, development and Tuning
