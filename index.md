@@ -21,6 +21,8 @@ Generalizable state of the art results in widely accepted benchmark**
 
 **First Author, CVPR 2020 Submission**
 
+
+
 ### 3D Shape Imaging
 <img src="w19.jpg" alt="3d" width="200"/>
 
@@ -43,6 +45,9 @@ Co-Author, Optics Express 2019 submission**
 
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
+
+
+
 # Research
 ### HCI
 <img src="gesture.png" alt="Gesture" width="300"/>
@@ -60,6 +65,9 @@ learning techniques. I researched, invented, and developed a working prototype.
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
 *Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
+
+
+
 
 ### Single Shot 3D Camera
 <img src="3dscanner.jpg" alt="3D Face" width="300"/>
@@ -86,6 +94,8 @@ and computational limits of single-shot 3D sensing
 
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
+
+
 ### Swarm Robotics
 <img src="360sense.png" alt="Sensing" width="200"/>
 <img src="sense.png" alt="Sensing" width="200"/>
@@ -100,9 +110,13 @@ Provided feedback on sensor, SoC platform feasibility to lab for sensing, mappin
 
 **Contribution: Bringup and characterization of micro swarm robotic sensing and SoC platform**
 
+
+
+
 # Projects
 
 ### Robot Vision Object Detection Obstacle Avoidance
+
 <img src="tohoku.jpg" alt="Obstacle Avoidance" width="300"/>
 
 Prof. Kazuya Yoshida Space Robotics Challenge at Tohoku University, Japan, Robotics Summer School: Build vision based mobile robotic navigation system for an uncertain environment.
@@ -113,6 +127,8 @@ With limited time outside of the summer school curriculum, I developed a system 
 **Contribution: 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch**
 
+
+
 ### Learning Fundementals Poster Session
 
 <img src="learning.png" alt="Learning" width="300"/>
@@ -122,6 +138,8 @@ summer annual summer session. I created an interactive learning
 poster to help network at the summer event and discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
+
+
 
 ### Modeling / Simulation
 
@@ -150,7 +168,7 @@ For a more dynamic environment, I created an interactive game simulation for hop
 I'm interested to extend the dynamics and environment models to animal like quadrupeds in 
 generated environments and explore use of Unity3d's ML-Agents. 
 
-### Various Robotics
+### Robotics
 
 **Vision**
 
