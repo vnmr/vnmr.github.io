@@ -91,10 +91,8 @@ Contribution: Characterization of one dimensional sensing and SoC platform
 # Projects
 
 ### Robot Vision Object Detection Obstacle Avoidance
-Tohoku University, Japan, Robotics Summer School
 ![Obstacle Avoidance](tohoku.jpg)
-As part of Prof. Kazuya Yoshida Space Robotics Challenge:
-Develop a vision based mobile robotic navigation system for an uncertain environment.
+Prof. Kazuya Yoshida Space Robotics Challenge at Tohoku University, Japan, Robotics Summer School: Build vision based mobile robotic navigation system for an uncertain environment.
 I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense D435, 
 Robot Operating System, for control of a lego mindstorm mobile robot.
 In under 2 weeks I developed a system to successfully track a goal, while avoiding 
