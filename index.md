@@ -123,21 +123,22 @@ poster to discuss the heart of learning algorithms: backpropogation, bayesian up
 **Contribution: Interactive Poster Session on Learning Fundamentals**
 
 #### Mathematica & Unity3d
-<img src="dyninternal.png" alt="Dynamics Internal" width="250"/>
-<img src="dynexternal.png" alt="Dynamics External" width="250"/>
+<img src="dyninternal.png" alt="Dynamics Internal" width="200"/>
+<img src="dynexternal.png" alt="Dynamics External" width="200"/>
 <img src="mbounce.png" alt="Bounce" width="250"/>
-<img src="unityhop.png" alt="Unity Hop" width="250"/>
-<img src="unityhopwindow.png" alt="Unity Hop Window" width="250"/>
-<img src="unityhopwindow2.png" alt="Unity Hop Window" width="250"/>
 
 I developed a dynamic simulation of a hopping robot inspired by the Hyabusa2 
-Micro-hopping robot for asteroid exploration. I modeled the dynamics 
+Micro-hopping robot for asteroid exploration. I modeled Lagrangian dynamics 
 in Mathematica. 
 
 - 2 <DoF <5 x, y, rotation on at least one axis (ie z)
 - Rotational Inertia Torquer
 - Impacts Torquer to Enclosure, Enclosure to Surface
 - External Force Simulated torquer motor torque
+
+<img src="unityhop.png" alt="Unity Hop" width="200"/>
+<img src="unityhopwindow.png" alt="Unity Hop Window" width="200"/>
+<img src="unityhopwindow2.png" alt="Unity Hop Window" width="200"/>
 
 I created an interactive game simulation in Unity3d. 
 
