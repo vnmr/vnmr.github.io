@@ -136,8 +136,7 @@ in Mathematica.
 
 - 3 DoF, x,y, rotation on z
 - Rotational Inertia Torquer
-- Impacts Torquer to Enclosure, Enclosure to Surface
-- External Force Simulated torquer motor torque
+- Torquer Impacts Enclosure, Enclosure Impacts Surface
 
 ***Unity***
 
@@ -171,9 +170,11 @@ Gazebo Custom Arm, Turtlesim etc
 
 **Manipulation**
 
+<img src="baxter.jpg" alt="YahtzeeArm" width="300"/> 
+
 ie Sawyer, Baxter
 
-[Youtube](https://www.youtube.com/watch?v=bqnysqX-sqw) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
+[Youtube](https://www.youtube.com/watch?v=vOceYSICtQc) [Github](https://github.com/mschlafly/baxterplaysyahtzee)
 
 ### Mechatronics / Control
 
