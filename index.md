@@ -89,7 +89,7 @@ and computational limits of single-shot 3D sensing
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
 ### Swarm Robotics
-![Sense](sense.png)
+<img src="sense.png" alt="Sensing" width="300"/>
 
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
@@ -103,7 +103,7 @@ Provided feedback on sensor, SoC platform feasibility to lab for sensing, mappin
 # Projects
 
 ### Robot Vision Object Detection Obstacle Avoidance
-![Obstacle Avoidance](tohoku.jpg)
+<img src="tohoku.png" alt="Obstacle Avoidance" width="300"/>
 
 Prof. Kazuya Yoshida Space Robotics Challenge at Tohoku University, Japan, Robotics Summer School: Build vision based mobile robotic navigation system for an uncertain environment.
 I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense D435, 
@@ -116,7 +116,7 @@ object detection, obstacle avoidance from scratch**
 
 ### Learning Fundementals Poster Session
 
-![Learning](learning.png)
+<img src="learning.png" alt="Learning" width="300"/>
 
 I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st 
 summer annual summer session. I created an interactive active learning 
