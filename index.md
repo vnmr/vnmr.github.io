@@ -42,6 +42,9 @@ media coverage.
 **Contribution: Hand Held instant 3D surface reconstruction
 Co-Author, Optics Express 2019 submission**
 
+Press: [Science](https://science.sciencemag.org/content/363/6429/796) [NPR] (https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
+\
+
 
 # Research
 ### HCI
@@ -64,6 +67,7 @@ I researched, invented, and develeped a working prototype.
 
 ### Single Shot 3D Camera
 ![3D Face](3dface.png)
+![3D Scanner](3dscanner.jpg)
 
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
