@@ -3,6 +3,8 @@ under construction 🐺 pardon the dust ...
 # Summary
 sensing, planning, learning, control, modeling
 
+![f19](f19.jpg)
+
 # Publications
 
 ### 3D Human Pose Detection
