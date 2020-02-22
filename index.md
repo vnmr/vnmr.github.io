@@ -2,13 +2,16 @@ under construction 🐺 pardon the dust ...
 
 # Interests
 Learning in adaptive agents.
+- Lifelong Learning and Development 
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
 - Imitation Learning
 - Lifelong Continual Learning
-- Exploration
+- Multi-Modal
+- Multi-Agent
+- Self-Exploration
 - Evolutionary Algorithms
 - Optimization Algorithms
 - Neuroscience
