@@ -1,7 +1,7 @@
 under construction 🐺 pardon the dust ...
 
 # Interests
-learning adaptive agents
+adaptive learning agents
 
 # Publications
 
