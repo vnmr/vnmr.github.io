@@ -13,7 +13,7 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 
 **Contribution** First benchmark comparison of Exploration in RL with MAP-Elites+Evolutionary Algorithms
 
-**Poster** First Author, GECCO 2020 Submitted - arxiv TBD
+**Poster** First Author, GECCO 2020 *Submitted* - arxiv TBD
 
 ### Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation
 ![Pose](pose.png)
@@ -23,7 +23,7 @@ We propose a new deep learning network that introduces a deeper CNN channel filt
 **Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results in widely accepted benchmark
 
-**Paper** First Author, CVPR 2020 Submitted - arxiv TBD
+**Paper** First Author, CVPR 2020 *Submitted* - arxiv TBD
 
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
@@ -33,7 +33,7 @@ Generalizable state of the art results in widely accepted benchmark
 
 **Contribution** Hand Held instant 3D surface reconstruction
 
-**Paper** Co-Author, Optics Express 2020 Paper Accepted [arxiv](https://arxiv.org/abs/1907.10700)
+**Paper** Co-Author, Optics Express 2020 *Accepted* [arxiv](https://arxiv.org/abs/1907.10700)
 
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
