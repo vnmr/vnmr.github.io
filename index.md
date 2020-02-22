@@ -76,7 +76,7 @@ This work extends Prof. Florian Willomitzters Thesis *"Single Shot 3D
 Sensing Close to Physical Limits"* by researching 3D physical, information, 
 and computational limits of single-shot 3D sensing
 
-**Contribution: In Progress - Real time 3D Reconstruction, Algorithms**
+**Contribution** In Progress - Real time 3D Reconstruction, Algorithms
 
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
@@ -92,7 +92,7 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
-**Contribution: Bringup and characterization of micro swarm robotic sensing and SoC platform**
+**Contribution** Bringup and characterization of micro swarm robotic sensing and SoC platform
 
 # Projects
 
@@ -105,7 +105,7 @@ I developed a custom RGBD segmentation, obstacle avoidance using Intel RealSense
 Robot Operating System, for control of a lego mindstorm mobile robot.
 With limited time outside of the summer school curriculum, I developed a system to successfully track a goal, while avoiding obstacles in a single episode physical environment.
 
-**Contribution: 1st attendee (any year) to develop vision based navigation
+**Contribution** 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch**
 
 ### Learning Fundementals Poster Session
@@ -116,7 +116,7 @@ I participated in AI Singapore held at NUS and SUTD, Singapore. This was the 1st
 summer annual summer session. I created an interactive learning 
 poster to help network at the summer event and discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
 
-**Contribution: Interactive Poster Session on Learning Fundamentals**
+**Contribution** Interactive Poster Session on Learning Fundamentals
 
 ### Modeling / Simulation
 
