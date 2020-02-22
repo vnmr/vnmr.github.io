@@ -8,7 +8,8 @@ Learning in adaptive agents.
 - Reinforcement Learning
 - Evolutionary Algorithms
 - Optimization Algorithms
-- Transfer Learning
+- Imitation Learning
+- Neuroscience
 - Cognitive Science
 - Cognitive Modeling
 - Cognitive Robotics
