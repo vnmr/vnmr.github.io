@@ -1,7 +1,18 @@
 under construction 🐺 pardon the dust ...
 
-# Summary
-sensing, planning, learning, control, modeling
+# Interests
+Learning in adaptive agents.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- Evolutionary Algorithms
+- Optimization Algorithms
+- Transfer Learning
+- Cognitive Science
+- Cognitive Modeling
+- Cognitive Robotics
+- Animal Behavior
 
 # Publications
 
@@ -13,7 +24,7 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 
 **First benchmark comparison of Exploration RL with MAP-Elites**
 
-**First Author, GECCO 2020 Poster Submission**
+**First Author, GECCO 2020 Poster Submission** arvix TBD
 
 ### Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation
 ![Pose](pose.png)
@@ -23,7 +34,7 @@ We propose a new deep learning network that introduces a deeper CNN channel filt
 **Contribution: Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results in widely accepted benchmark**
 
-**First Author, CVPR 2020 Paper Submission**
+**First Author, CVPR 2020 Paper Submission** arxiv TBD
 
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
