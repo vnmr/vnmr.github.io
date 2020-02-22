@@ -2,23 +2,6 @@ under construction 🐺 pardon the dust ...
 
 # Interests
 Learning in adaptive agents
-- Lifelong Learning and Development 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Imitation Learning
-- Lifelong Continual Learning
-- Multi-Modal
-- Multi-Agent
-- Self-Exploration
-- Evolutionary Algorithms
-- Optimization Algorithms
-- Neuroscience
-- Cognitive Science
-- Cognitive Modeling
-- Cognitive Robotics
-- Animal Behavior
 
 # Publications
 
