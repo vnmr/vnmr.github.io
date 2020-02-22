@@ -33,9 +33,7 @@ Generalizable state of the art results in widely accepted benchmark**
 
 **Contribution: Hand Held instant 3D surface reconstruction**
 
-[arxiv](https://arxiv.org/abs/1907.10700)
-
-** Co-Author, Optics Express 2020 Paper Accepted**
+** Co-Author, Optics Express 2020 Paper Accepted - [arxiv](https://arxiv.org/abs/1907.10700) **
 
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
