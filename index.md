@@ -5,49 +5,33 @@ sensing, planning, learning, control, modeling
 
 # Publications
 
-### 3D Human Pose Detection
+### Exploring the BipedalWalker benchmark with MAP-Elites and Curiosity-driven A3C
+![Bipedal Walker](https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/BipedalWalker-v2/poster.jpg) 
+source: OpenAI Gym Bipedal Walker
+
+The MAP-Elites algorithm can efficiently explore reinforcement learning problems and optimize collections of solutions over user-defined ranges of possible behaviors. However, MAP-Elites can bedifficult to scale to highly dimensional problem spaces, such asthe optimization of large deep neural networks. Traditional deepreinforcement can train agents with complex network model byrelying on human-designed extrinsic rewards. In complex problems,this translates into reward landscapes that are extremely sparseand hard to explore. This has inspired the development of curiosity-driven reinforcement learning algorithms that make use of intrinsicrewards to continuously optimize for novel policies. While thisapproach encourage exploration, it remains to be seen whetherthey can be used similarly to MAP-Elites to search for a collectionof highly diverse s
+
+**First Author, GECCO 2020 Poster Submission**
+
+### Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation
 ![Pose](pose.png)
+We propose a new deep learning network that introduces a deeper CNN channel filter and constraints as losses to reduce joint position and motion errors for 3D video human body pose estimation.  Our model outperforms the previous best result from the literature based on mean per-joint position error, velocity error, and acceleration errors on the Human 3.6M benchmark corresponding to a new state-of-the- art mean error reduction in all protocols and motion metrics. Mean per joint error is reduced by 1%, velocity error by 7% and acceleration by 13% compared to the best results from the literature. Our contribution increasing positional accuracy and motion smoothness in video can be integrated with future end to end networks without increasing network complexity.
 
-We propose a new deep learning architecture that introduces a deep channel filter 
-and skeleton joint related constraints as losses to a previous 2-stage temporal 
-deep CNN network to reduce joint position and motion errors for 3D 
-video human body pose estimation. Our model outperforms the previous reported best 
-result from the literature based on mean per-joint position error on the Human 3.6M 
-benchmark by 1%, and improves motion smoothness over the baseline architecture. 
-This corresponds to a new state-of-the-art error reduction in all categories, opening opportunites to combine these methods with future 3D human pose estimators.
-
-**Contribution: Joint constraints as losses with temporal CNNs
+**Contribution: Joint constraints as losses with an updated temporal CNNs
 Generalizable state of the art results in widely accepted benchmark**
 
-**First Author, CVPR 2020 Submission**
+**First Author, CVPR 2020 Paper Submission**
 
-
-
-### 3D Shape Imaging
+### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
 <img src="w19.jpg" alt="3d" width="200"/>
 
-3D measurement of complicated surfaces with a tablet.
-The introduced system allows for the three-dimensional measurement of extended 
-specular surfaces with high surface normal variations. It consists only of a 
-mobile handheld device (such as a Tablet) and exploits screen and front camera
-for Deflectometry-based surface measurements. High quality surface measurements
-are possible without the need for an offline calibration procedure. To compensate
-for the small screen of a mobile device a multi-view registration technique is 
-applied so that large surfaces can be densely reconstructed in their entirety. 
-The mobile Deflectometry project is a first step towards a self-calibrating 
-measurement procedure capable of taking 3D surface measurements in the wild 
-and accessible to users with little to no technical imaging experience. 
-We developed a ‘surface measurement app’ that received an overwhelming amount of
-media coverage.
+3D measurement of complicated surfaces with a tablet.  The introduced system allows for the three-dimensional measurement of extended specular surfaces with high surface normal variations. It consists only of a mobile handheld device (such as a Tablet) and exploits screen and front camera for Deflectometry-based surface measurements. High quality surface measurements are possible without the need for an offline calibration procedure. To compensate for the small screen of a mobile device a multi-view registration technique is applied so that large surfaces can be densely reconstructed in their entirety.  The mobile Deflectometry project is a first step towards a self-calibrating measurement procedure capable of taking 3D surface measurements in the wild and accessible to users with little to no technical imaging experience.  We developed a ‘surface measurement app’ that received an overwhelming amount of media coverage.
 
 **Contribution: Hand Held instant 3D surface reconstruction
-Co-Author, Optics Express 2019 submission**
+Co-Author, Optics Express 2020 Paper Accepted**
 
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
-
-
-
 
 # Research
 ### HCI
@@ -66,9 +50,6 @@ learning techniques. I researched, invented, and developed a working prototype.
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
 *Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
-
-
-
 
 ### Single Shot 3D Camera
 <img src="3dscanner.jpg" alt="3D Face" width="300"/>
@@ -95,8 +76,6 @@ and computational limits of single-shot 3D sensing
 
 [Youtube](https://www.youtube.com/watch?v=V6bOc3aBaHA)
 
-
-
 ### Swarm Robotics
 <img src="tofboard.jpg" alt="Sensing" width="200"/>
 <img src="sense.png" alt="Sensing" width="200"/>
@@ -110,9 +89,6 @@ Investigate and brought up space and power constrained SoC platform from micro-s
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
 **Contribution: Bringup and characterization of micro swarm robotic sensing and SoC platform**
-
-
-
 
 # Projects
 
@@ -128,8 +104,6 @@ With limited time outside of the summer school curriculum, I developed a system 
 **Contribution: 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch**
 
-
-
 ### Learning Fundementals Poster Session
 
 <img src="learning.png" alt="Learning" width="300"/>
@@ -139,8 +113,6 @@ summer annual summer session. I created an interactive learning
 poster to help network at the summer event and discuss the heart of learning algorithms: backpropogation, bayesian updates, and the bellman equation. Code, math, and models. Presented at poster session.
 
 **Contribution: Interactive Poster Session on Learning Fundamentals**
-
-
 
 ### Modeling / Simulation
 
