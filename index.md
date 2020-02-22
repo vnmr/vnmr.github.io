@@ -11,7 +11,7 @@ source: OpenAI Gym Bipedal Walker
 
 The MAP-Elites algorithm can efficiently explore reinforcement learning problems and optimize collections of solutions over user-defined ranges of possible behaviors. However, MAP-Elites can be difficult to scale to highly dimensional problem spaces, such as the optimization of large deep neural networks. Traditional deep reinforcement can train agents with complex network model byrelying on human-designed extrinsic rewards. In complex problems, this translates into reward landscapes that are extremely sparseand hard to explore. This has inspired the development of curiosity-driven reinforcement learning algorithms that make use of intrinsic rewards to continuously optimize for novel policies. While this approach encourage exploration, it remains to be seen whether they can be used similarly to MAP-Elites to search for a collection of highly diverse solutions.
 
-**First benchmark comparison of Exploration RL with MAP-Elites**
+**Contribution** First benchmark comparison of Exploration in RL with MAP-Elites+Evolutionary Algorithms
 
 **First Author, GECCO 2020 Poster Submission** arxiv TBD
 
