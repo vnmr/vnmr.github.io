@@ -9,7 +9,9 @@ sensing, planning, learning, control, modeling
 ![Bipedal Walker](https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/BipedalWalker-v2/poster.jpg) 
 source: OpenAI Gym Bipedal Walker
 
-The MAP-Elites algorithm can efficiently explore reinforcement learning problems and optimize collections of solutions over user-defined ranges of possible behaviors. However, MAP-Elites can bedifficult to scale to highly dimensional problem spaces, such asthe optimization of large deep neural networks. Traditional deepreinforcement can train agents with complex network model byrelying on human-designed extrinsic rewards. In complex problems,this translates into reward landscapes that are extremely sparseand hard to explore. This has inspired the development of curiosity-driven reinforcement learning algorithms that make use of intrinsicrewards to continuously optimize for novel policies. While thisapproach encourage exploration, it remains to be seen whetherthey can be used similarly to MAP-Elites to search for a collectionof highly diverse s
+The MAP-Elites algorithm can efficiently explore reinforcement learning problems and optimize collections of solutions over user-defined ranges of possible behaviors. However, MAP-Elites can be difficult to scale to highly dimensional problem spaces, such as the optimization of large deep neural networks. Traditional deep reinforcement can train agents with complex network model byrelying on human-designed extrinsic rewards. In complex problems, this translates into reward landscapes that are extremely sparseand hard to explore. This has inspired the development of curiosity-driven reinforcement learning algorithms that make use of intrinsic rewards to continuously optimize for novel policies. While this approach encourage exploration, it remains to be seen whether they can be used similarly to MAP-Elites to search for a collection of highly diverse solutions.
+
+**First benchmark comparison of Exploration RL with MAP-Elites**
 
 **First Author, GECCO 2020 Poster Submission**
 
@@ -17,7 +19,7 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 ![Pose](pose.png)
 We propose a new deep learning network that introduces a deeper CNN channel filter and constraints as losses to reduce joint position and motion errors for 3D video human body pose estimation.  Our model outperforms the previous best result from the literature based on mean per-joint position error, velocity error, and acceleration errors on the Human 3.6M benchmark corresponding to a new state-of-the- art mean error reduction in all protocols and motion metrics. Mean per joint error is reduced by 1%, velocity error by 7% and acceleration by 13% compared to the best results from the literature. Our contribution increasing positional accuracy and motion smoothness in video can be integrated with future end to end networks without increasing network complexity.
 
-**Contribution: Joint constraints as losses with an updated temporal CNNs
+**Contribution: Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results in widely accepted benchmark**
 
 **First Author, CVPR 2020 Paper Submission**
@@ -28,8 +30,11 @@ Generalizable state of the art results in widely accepted benchmark**
 
 3D measurement of complicated surfaces with a tablet.  The introduced system allows for the three-dimensional measurement of extended specular surfaces with high surface normal variations. It consists only of a mobile handheld device (such as a Tablet) and exploits screen and front camera for Deflectometry-based surface measurements. High quality surface measurements are possible without the need for an offline calibration procedure. To compensate for the small screen of a mobile device a multi-view registration technique is applied so that large surfaces can be densely reconstructed in their entirety.  The mobile Deflectometry project is a first step towards a self-calibrating measurement procedure capable of taking 3D surface measurements in the wild and accessible to users with little to no technical imaging experience.  We developed a ‘surface measurement app’ that received an overwhelming amount of media coverage.
 
-**Contribution: Hand Held instant 3D surface reconstruction
-Co-Author, Optics Express 2020 Paper Accepted**
+**Contribution: Hand Held instant 3D surface reconstruction**
+
+[arxiv](https://arxiv.org/abs/1907.10700)
+
+** Co-Author, Optics Express 2020 Paper Accepted**
 
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
