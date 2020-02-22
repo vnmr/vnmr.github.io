@@ -47,15 +47,13 @@ The camera gestures are detected, classified, and acted upon in real time.
 The system is comprised of an embedded computer, inertial and force sensors
 haptic, audio, and visual feedback components on a wearable substrate. 
 Signals from sensors are processed and classified with classical signal and machine
-learning techniques. I researched, invented, and developed a working prototype. 
+learning techniques. 
 
-**Contribution** Sole Inventor [Patent](https://patents.google.com/patent/WO2015131157A1/en) **Granted**
-
+**Contribution** Research, inventor, prototyper
+**Patent**  [Patent](https://patents.google.com/patent/WO2015131157A1/en) *Granted*
+*Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 
-*Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
-
-### Single Shot 3D Camera
 <img src="3dscanner.jpg" alt="3D Face" width="300"/>
 <img src="3dface.png" alt="3D Face" width="300"/>
 
