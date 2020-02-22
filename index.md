@@ -1,7 +1,7 @@
 under construction 🐺 pardon the dust ...
 
 # Interests
-Learning in adaptive agents.
+Learning in adaptive agents
 - Lifelong Learning and Development 
 - Artificial Intelligence
 - Machine Learning
