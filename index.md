@@ -1,5 +1,3 @@
-under construction 🐺 pardon the dust ...
-
 # Interests
 adaptive learning agents
 
