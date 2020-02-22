@@ -13,7 +13,7 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 
 **First benchmark comparison of Exploration RL with MAP-Elites**
 
-**First Author, GECCO 2020 Poster Submission** arvix TBD
+**First Author, GECCO 2020 Poster Submission** arxiv TBD
 
 ### Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation
 ![Pose](pose.png)
