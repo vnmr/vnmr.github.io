@@ -33,6 +33,8 @@ Generalizable state of the art results in widely accepted benchmark
 
 **Paper** Co-Author, Optics Express 2020 *Accepted* [arxiv](https://arxiv.org/abs/1907.10700)
 
+**Patent** Co-Author, USPTO *Pending* 
+
 **Press** [Science](https://science.sciencemag.org/content/363/6429/796), [NPR](https://www.sciencefriday.com/segments/clearing-up-the-art-acne-on-georgia-okeeffes-paintings/), Smithsonian Magazine etc
 
 # Research
