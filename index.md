@@ -48,6 +48,7 @@ Signals from sensors are processed and classified with classical signal and mach
 learning techniques. 
 
 **Contribution** Research, inventor, prototyper
+
 **Patent** First Author, USPTO *Granted* [Patent](https://patents.google.com/patent/WO2015131157A1/en) 
 [Youtube](https://www.youtube.com/watch?v=2Af4aUWo0HI\&feature=youtu.be\&t=28)
 *Cited by: Facebook Reality Labs, Amazon, Intel, Xiaomi, IBM, CTRL-labs, Essential*
