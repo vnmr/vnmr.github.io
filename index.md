@@ -6,9 +6,11 @@ Learning in adaptive agents.
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
+- Imitation Learning
+- Lifelong Continual Learning
+- Exploration
 - Evolutionary Algorithms
 - Optimization Algorithms
-- Imitation Learning
 - Neuroscience
 - Cognitive Science
 - Cognitive Modeling
