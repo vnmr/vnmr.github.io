@@ -28,7 +28,7 @@ Generalizable state of the art results in widely accepted benchmark
 
 **Paper** First Author, CVPR 2020 *Submitted* - arxiv TBD
 
-**Github** TBD
+[Github](https://github.com/vnmr/JointVideoPose3D)
 
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
