@@ -32,7 +32,7 @@ Generalizable state of the art results in widely accepted benchmark
 
 **arXiv** [arXiv](https://arxiv.org/abs/2002.11251)
 
-[Github](https://github.com/vnmr/JointVideoPose3D)
+**Github** [Github](https://github.com/vnmr/JointVideoPose3D)
 
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
