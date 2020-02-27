@@ -26,7 +26,9 @@ We propose a new deep learning network that introduces a deeper CNN channel filt
 **Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results in widely accepted benchmark
 
-**Paper** First Author, CVPR 2020 *Submitted* - [arxiv](https://arxiv.org/abs/2002.11251)
+**Paper** First Author, CVPR 2020 *Submitted* 
+
+[arxiv](https://arxiv.org/abs/2002.11251)
 
 [Github](https://github.com/vnmr/JointVideoPose3D)
 
@@ -38,7 +40,9 @@ Generalizable state of the art results in widely accepted benchmark
 
 **Contribution** Hand Held instant 3D surface reconstruction
 
-**Paper** Co-Author, Optics Express 2020 *Accepted* [arxiv](https://arxiv.org/abs/1907.10700)
+**Paper** Co-Author, Optics Express 2020 *Accepted* 
+
+[arxiv](https://arxiv.org/abs/1907.10700)
 
 **Patent** Co-Author, USPTO *Pending* 
 
