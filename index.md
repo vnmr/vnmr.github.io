@@ -26,7 +26,7 @@ We propose a new deep learning network that introduces a deeper CNN channel filt
 **Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results in widely accepted benchmark
 
-**Paper** First Author, CVPR 2020 *Submitted* - arxiv TBD
+**Paper** First Author, CVPR 2020 *Submitted* - [arxiv](https://arxiv.org/abs/2002.11251)
 
 [Github](https://github.com/vnmr/JointVideoPose3D)
 
