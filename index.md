@@ -104,8 +104,8 @@ and computational limits of single-shot 3D sensing
 
 Swarm Robotics platform with Prof. Michael Rubenstein, Northwestern
 Reverse engineered pre-release SDK code/register settings for EVT Time of 
-Flight sensor. Provided bug fixes and feedback to Time of Flight vendor 
-Investigate and brought up space and power constrained SoC platform from micro-swarms. 
+Flight sensor. Provided bug fixes and feedback to Time of Flight vendor.
+Investigated and brought up space and power constrained SoC platform for micro-swarms. 
 
 Provided feedback on sensor, SoC platform feasibility to lab for sensing, mapping, SLAM-type applications.
 
