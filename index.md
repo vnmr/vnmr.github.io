@@ -72,10 +72,10 @@ learning techniques.
 
 *Cited by: Facebook Reality Labs, Amazon, Microsoft, Intel, Xiaomi, IBM, CTRL-labs, Essential*
 
+### Single-shot 3D movie camera at the limit
 <img src="3dscanner.jpg" alt="3D Face" width="300"/>
 <img src="3dface.png" alt="3D Face" width="300"/>
 
-### Single-shot 3D movie camera at the limit
 The single-shot 3D movie camera – 3D videos of fast scenes with unprecedented 
 data quality. The information theoretical efficiency of triangulation 
 (‘structured light’) systems is limited by the ‘ambiguity problem’. The 
