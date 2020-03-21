@@ -12,7 +12,7 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 **Contribution** First benchmark comparison of Exploration in RL with MAP-Elites+Evolutionary Algorithms. 
 
 
-**Poster** First Author, GECCO 2020 *Submitted* 
+**Poster** First Author, GECCO 2020 *Accepted* 
 
 **arXiv** TBD
 
