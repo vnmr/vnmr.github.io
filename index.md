@@ -25,12 +25,6 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 
 **Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 
-**Paper** TBD
-
-**arXiv** TBD
-
-**Github** [Github](https://github.com/vnmr/JointVideoPose3D)
-
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
 <img src="w19.jpg" alt="3d" width="200"/>
