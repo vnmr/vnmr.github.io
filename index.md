@@ -20,11 +20,6 @@ The MAP-Elites algorithm can efficiently explore reinforcement learning problems
 
 **Github** TBD
 
-### 3D Human Pose Estimation
-![Pose](pose.png)
-
-**Contribution** Joint constraints as losses with an updated temporal CNN architecture.
-
 ### Hand-Guided Qualitative Deflectometry with a Mobile Device
 <img src="defltable.jpg" alt="3d" width="200"/>
 <img src="w19.jpg" alt="3d" width="200"/>
@@ -115,6 +110,11 @@ With limited time outside of the summer school curriculum, I developed a system 
 
 **Contribution** 1st attendee (any year) to develop vision based navigation
 object detection, obstacle avoidance from scratch**
+
+### 3D Human Pose Estimation
+![Pose](pose.png)
+
+**Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 
 ### Learning Fundementals Poster Session
 
