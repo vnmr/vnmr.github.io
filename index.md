@@ -1,4 +1,4 @@
-<div id="user-content-toc" style="background-color: rgb(50, 50, 50);>
+<div style="background-color: rgb(50, 50, 50);>
 
 <pre>
 ██████╗  ██████╗██╗    
