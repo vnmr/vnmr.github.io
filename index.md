@@ -2,6 +2,9 @@
   <dt>Company</dt>
   <dd>Closedloop Cybernetics Inc.</dd>
 
+  <dt>Business</dt>
+  <dd>Design and manufacture dual use systems.</dd>
+
   <dt>Status</dt>
   <dd>US Owned, US Born Citizens, ITAR, Clearance Eligible</dd>
     
