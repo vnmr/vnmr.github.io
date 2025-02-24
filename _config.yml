@@ -2,6 +2,6 @@ remote_theme: pages-themes/hacker@v0.2.0
 github:
   is_project_page: false
 gem "github-pages", group: :jekyll_plugins
-title: rcl &#35; Run Closed-Loop
+title: rcl &#35;Run Closedloop
 description: 0 to N Software / Hardware
 
