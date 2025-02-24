@@ -48,7 +48,10 @@ Systems Integration and Testing
 <dl>
   <dt>Company</dt>
   <dd>Closedloop Cybernetics Inc.</dd>
-  
+
+  <dt>Eligibilty</dt>
+  <dd>US Owned, US Born Citizens, ITAR, Clearance Eligible</dd>
+    
   <dt>Location</dt>
   <dd>Silicon Valley, CA, USA</dd>
 
@@ -57,4 +60,5 @@ Systems Integration and Testing
   
   <dt>Phone</dt>
   <dd>+1 415 812 3326</dd>
+  
 </dl>
