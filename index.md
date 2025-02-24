@@ -46,7 +46,7 @@ Systems Integration and Testing
   <dt>Company</dt>
   <dd>Closedloop Cybernetics Inc.</dd>
 
-  <dt>Eligibilty</dt>
+  <dt>Status</dt>
   <dd>US Owned, US Born Citizens, ITAR, Clearance Eligible</dd>
     
   <dt>Location</dt>
