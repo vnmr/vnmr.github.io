@@ -1,15 +1,15 @@
-Software / Hardware Engineering Consultancy
+# 0 to N Software / Hardware
 
 
-Automotive
-Aviation
-Consumer
-Energy
-Medical
-Industrial
-Automation
-Space
-Telecomm
+- Automotive
+- Aviation
+- Consumer
+- Energy
+- Medical
+- Industrial
+- Automation
+- Space
+- Telecomm
 
 
 
