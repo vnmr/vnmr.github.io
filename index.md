@@ -1,1 +1,1 @@
-Software / Hardware Engineering Constultancy
+Software / Hardware Engineering Consultancy
