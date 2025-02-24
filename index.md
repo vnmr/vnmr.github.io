@@ -53,7 +53,7 @@ Systems Integration and Testing
   <dd>Silicon Valley, CA, USA</dd>
 
   <dt>Email</dt>
-  <dd><a href=mailto:info@rcl.sh>info@rcl.sh</a></dd>
+  <dd>info@rcl.sh</dd>
   
   <dt>Phone</dt>
   <dd>+1 415 812 3326</dd>
