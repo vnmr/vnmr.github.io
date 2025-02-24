@@ -41,6 +41,20 @@ PCBA Rework, SMT, Soldering
 Electromechanical Assembly
 
 Systems Architecture, Requirements, 
+
+<dl>
+  <dt>Company</dt>
+  <dd>Closedloop Cybernetics Inc.</dd>
+  
+  <dt>Location</dt>
+  <dd>Silicon Valley, CA, USA</dd>
+
+  <dt>Email</dt>
+  <dd><a href=mailto:info@rcl.sh>info@rcl.sh</a></dd>
+  
+  <dt>Phone</dt>
+  <dd>+1 415 812 3326</dd>
+</dl>
 Power Systems
 Budgeting, Build vs Buy
 Systems Integration and Testing
