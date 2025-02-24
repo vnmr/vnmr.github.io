@@ -1,4 +1,4 @@
-remote_theme: poole/lanyon
+remote_theme: retpolanne/hacker-but-cute
 github:
   is_project_page: false
 gem "github-pages", group: :jekyll_plugins
