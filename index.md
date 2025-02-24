@@ -1,6 +1,3 @@
-# 0 to N Software / Hardware
-
-
 - Automotive
 - Aviation
 - Consumer
@@ -18,11 +15,11 @@ Industrial Robotics, AMR, UAV, ROV, USV, AGV, Rovers, Drones, Avionics, Humanoid
 
 Machine perception, Emerging technology, IoT, Telecommunications, Data Center Compute, Edge Compute, Enterprise networking, Robotics, Autonomy, Automation, Sensors, Avionics, Space, Defense, and Consumer Electronics industries.
 
-Engineering and Technical Strategy Consulting
-Architecture and Design Reviews
-Prototype and Product Development
-Development of Technical Capability
-Patent Portfolios and Product Lines
+- Engineering and Technical Strategy Consulting
+- Architecture and Design Reviews
+- Prototype and Product Development
+- Development of Technical Capability
+- Patent Portfolios and Product Lines
 
 PCB Layout / Design / DFM
 Digital Circuit Design
