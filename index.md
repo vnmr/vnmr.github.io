@@ -40,7 +40,10 @@ Electronics Measurement & Test
 PCBA Rework, SMT, Soldering
 Electromechanical Assembly
 
-Systems Architecture, Requirements, 
+Systems Architecture, Requirements, Power Systems
+Budgeting, Build vs Buy
+Systems Integration and Testing
+
 
 <dl>
   <dt>Company</dt>
@@ -55,6 +58,3 @@ Systems Architecture, Requirements,
   <dt>Phone</dt>
   <dd>+1 415 812 3326</dd>
 </dl>
-Power Systems
-Budgeting, Build vs Buy
-Systems Integration and Testing
