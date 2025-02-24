@@ -38,6 +38,7 @@ With deep expertise in electronic and firmware design and a proven track record 
 - Telecomm
 
 
+<code style="color : gray">
 
 Industrial Robotics, AMR, UAV, ROV, USV, AGV, Rovers, Drones, Avionics, Humanoids, Quadrupeds, General Purpose Robotics, AV, Autonomy, Space, Aerospace, Satellites, Spacecraft, Cyber Physical Systems, Networking, EdgeCompute, Embedded, Firmware, Middleware, Operating Systems, Hardware, Perception, Planning, Control, Motion, Kinematics, Dynamics, Sensors, Motors, Actuators, Power Electronics, E/E, Compute, SOC, MCU, SOM, High Reliability Systems, High Performance Systems, Dual-Use, ITAR, Real TIme, Low Latency, Deterministic, Mission Critical, Safety Critical, Verification, Validation, Reliability, Custom Architecture, HW/SW, Bringup, Mechatronics, Embedded, System Integration, Rapid Prototyping, Iteration, Prototype to Manufacturing, Concept through Mass Production, Mission Assurance, Root Cause Analysis, Industrial, Automotive, Medical
 
@@ -58,6 +59,7 @@ Circuit Prototyping
 Electronics Measurement & Test
 PCBA Rework, SMT, Soldering
 Electromechanical Assembly
+</code>
 
 Systems Architecture, Requirements, Power Systems
 Budgeting, Build vs Buy
