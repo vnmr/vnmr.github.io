@@ -1,3 +1,5 @@
+With deep expertise in electronic and firmware design and a proven track record of engineering uncrewed and autonomous systems at the edge, we are on a mission to create on-board systems for next-generation of embedded computing for autonomous systems, robotics, and space exploration.
+
 <dl>
   <dt>Company</dt>
   <dd>Closedloop Cybernetics Inc.</dd>
@@ -18,7 +20,6 @@
   <dd>+1 415 812 3326</dd>
   
 </dl>
-
 
 - Engineering and Technical Strategy Consulting
 - Architecture and Design Reviews
