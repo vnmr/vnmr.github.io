@@ -1,19 +1,3 @@
-- Engineering and Technical Strategy Consulting
-- Architecture and Design Reviews
-- Prototype and Product Development
-- Development of Technical Capability
-- Patent Portfolios and Product Lines
-
-- Automotive
-- Aviation
-- Consumer
-- Energy
-- Medical
-- Industrial
-- Automation
-- Space
-- Telecomm
-
 <dl>
   <dt>Company</dt>
   <dd>Closedloop Cybernetics Inc.</dd>
@@ -32,6 +16,22 @@
   
 </dl>
 
+
+- Engineering and Technical Strategy Consulting
+- Architecture and Design Reviews
+- Prototype and Product Development
+- Development of Technical Capability
+- Patent Portfolios and Product Lines
+
+- Automotive
+- Aviation
+- Consumer
+- Energy
+- Medical
+- Industrial
+- Automation
+- Space
+- Telecomm
 
 
 
