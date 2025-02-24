@@ -1,4 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: y7kim/agency-jekyll-theme
 github:
   is_project_page: false
 gem "github-pages", group: :jekyll_plugins
